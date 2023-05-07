@@ -134,8 +134,37 @@ const create = async (request, response) => {
     };
 };
 
+const remove = async (request, response) => {
+    const { id } = request.params;
+
+    try {
+        const pokemonRemoved = await PokemonsModel.findByIdAndDelete(id);
+
+        if(!pokemonRemoved) {
+           throw new NotFoundException(`Pokemon not found ${id}`);
+        };
+
+    return response.status(204).send();
+    } catch(err) {
+        if(err instanceof NotFoundException) {
+            return response.status(404).json({
+                error: '@pokemons/remove',
+                message: err.message,
+            });
+        };
+        return response.status(400).json({
+            error: '@pokemons/remove',
+            message: err.message || "Failed to remove a pokemon",
+        });
+    }
+};
+
+
+
+
 module.exports = {
     list,
     getById,
     create,
+    remove,
 };

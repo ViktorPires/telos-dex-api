@@ -8,4 +8,6 @@ routes.get('/pokemons', pokemonsController.list);
 routes.get('/pokemons/:id', pokemonsController.getById);
 routes.post('/pokemons', pokemonsController.create);
 
+routes.delete('/pokemons/:id', pokemonsController.remove);
+
 module.exports = routes;

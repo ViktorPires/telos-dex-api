@@ -1,6 +1,8 @@
 const PokemonsModel = require('../model/pokemon.model');
+const CountersModel = require('../model/counter.model');
 
 const { NotFoundException } = require('../exceptions/NotFoundException');
+const { LegendaryException } = require('../exceptions/LegendaryException');
 
 const list = async (request, response) => {
     const { 
@@ -83,7 +85,57 @@ const getById = async (request, response) => {
     }
 };
 
+const create = async (request, response) => {
+    const { 
+        name,  
+        attack, 
+        defense, 
+        speed, 
+        hp, 
+        type1, 
+        type2, 
+        is_legendary } = request.body;
+
+    try {
+        if(is_legendary !== "0" & is_legendary !== "1") {
+            throw new LegendaryException("It's necessary to input one of the following options as a string for legendary data: 0 or 1.");
+        };
+
+        const counters = await CountersModel.findOneAndUpdate(
+            { name: 'pokedex_counter' },
+            { $inc: { value: 1 } },
+            { new: true }
+          );
+
+        const pokemon = await PokemonsModel.create({
+            name,
+            pokedex_number: counters.value,
+            attack,
+            defense,
+            speed,
+            hp,
+            type1,
+            type2,
+            is_legendary
+        });
+
+        return response.status(201).json(pokemon);
+    } catch(err) {
+        if(err instanceof LegendaryException) {
+            return response.status(400).json({
+                error: '@pokemons/create',
+                message: err.message,
+            });
+        };
+        return response.status(400).json({
+            error: '@pokemons/create',
+            message: err.message || "Failed to create a new pokemon",
+        });
+    };
+};
+
 module.exports = {
     list,
     getById,
+    create,
 };

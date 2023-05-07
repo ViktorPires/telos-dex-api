@@ -8,6 +8,7 @@ const PokemonSchema = new mongoose.Schema({
         pokedex_number: {
             type: Number,
             required: true,
+            unique: true,
         },
         attack: {
             type: Number,
@@ -28,9 +29,11 @@ const PokemonSchema = new mongoose.Schema({
         type1: {
             type: String,
             required: true,
+            lowercase: true,
         },
         type2: {
             type: String,
+            lowercase: true,
         },
         is_legendary: {
             type: String,

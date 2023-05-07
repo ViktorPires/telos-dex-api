@@ -177,6 +177,12 @@ const update = async (request, response) => {
 
         return response.json(pokemonUpdated);
 } catch(err) {
+    if(err instanceof LegendaryException) {
+        return response.status(400).json({
+            error: '@pokemons/update',
+            message: err.message,
+        });
+    };
     if(err instanceof NotFoundException) {
         return response.status(404).json({
             error: '@pokemons/update',

@@ -33,7 +33,7 @@ const PokemonSchema = new mongoose.Schema({
             type: String,
         },
         is_legendary: {
-            type: Boolean,
+            type: String,
             required: true,
         },
     } 

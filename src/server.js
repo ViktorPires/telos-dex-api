@@ -4,7 +4,12 @@ require("./config/database");
 
 const { PORT } = require('./config/env');
 
+const pokemonsRoutes = require('./routes/pokemons.routes');
+
 const app = express();
+
+app.use(express.json());
+app.use(pokemonsRoutes);
 
 app.use("/", (request, response) => {
     console.log(`Method: ${request.method}`);

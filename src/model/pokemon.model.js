@@ -4,6 +4,7 @@ const PokemonSchema = new mongoose.Schema({
         name: {
             type: String,
             required: true,
+            unique: true,
         },
         pokedex_number: {
             type: Number,

@@ -134,6 +134,62 @@ const create = async (request, response) => {
     };
 };
 
+const update = async (request, response) => {
+    const { id } = request.params;
+    const {  
+        name,  
+        attack, 
+        defense, 
+        speed, 
+        hp, 
+        type1, 
+        type2, 
+        is_legendary } = request.body;
+
+    try {
+       if(is_legendary) {
+         if(is_legendary !== "0" & is_legendary !== "1") {
+             throw new LegendaryException("It's necessary to input one of the following options as a string for legendary data: 0 or 1.");
+         };
+       };
+
+        const pokemon = await PokemonsModel.findById(id);
+
+        if(!pokemon) {
+            throw new NotFoundException(`Pokemon not found ${id}`);
+        };
+
+        const pokemonUpdated = await PokemonsModel.findByIdAndUpdate(id, {
+                name: !name ? pokemon.name : name,
+                pokedex_number: pokemon.pokedex_number,
+                attack: !attack ? pokemon.attack : attack,
+                defense: !defense ? pokemon.defense : defense,
+                speed: !speed ? pokemon.speed : speed,
+                hp: !hp ? pokemon.hp : hp,
+                type1: !type1 ? pokemon.type1 : type1,
+                type2,
+                is_legendary: !is_legendary ? pokemon.is_legendary : is_legendary
+            },
+            {  
+                new: true,
+            }
+        );
+
+        return response.json(pokemonUpdated);
+} catch(err) {
+    if(err instanceof NotFoundException) {
+        return response.status(404).json({
+            error: '@pokemons/update',
+            message: err.message,
+        });
+    };
+    return response.status(400).json({
+        error: '@news/update',
+        message: err.message || "Failed to update a news",
+    });
+    }
+};
+
 const remove = async (request, response) => {
     const { id } = request.params;
 
@@ -159,12 +215,10 @@ const remove = async (request, response) => {
     }
 };
 
-
-
-
 module.exports = {
     list,
     getById,
     create,
+    update,
     remove,
 };

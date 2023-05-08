@@ -1,6 +1,8 @@
 const PokemonsModel = require('../model/pokemon.model');
 const CountersModel = require('../model/counter.model');
 
+const { operatorFilter } = require('../utils/operatorFilter');
+
 const { NotFoundException } = require('../exceptions/NotFoundException');
 const { LegendaryException } = require('../exceptions/LegendaryException');
 
@@ -20,10 +22,10 @@ const list = async (request, response) => {
 
     if(name) {filters.name = name} ;
     if(pokedex_number) {filters.pokedex_number = pokedex_number};
-    if(attack) {filters.attack = attack};
-    if(defense) {filters.defense = defense};
-    if(speed) {filters.speed = speed};
-    if(hp) {filters.hp = hp};
+    if(attack) { Object.assign(filters, operatorFilter("attack", attack)) };
+    if(defense) { Object.assign(filters, operatorFilter("defense", defense)) };
+    if(speed) { Object.assign(filters, operatorFilter("speed", speed)) };
+    if(hp) { Object.assign(filters, operatorFilter("hp", hp)) };
     if(type1) {filters.type1 = type1};
     if(type2) {filters.type2 = type2};
     if(is_legendary) {
@@ -33,7 +35,7 @@ const list = async (request, response) => {
             filters.is_legendary = "0";
         }
     };
-
+      
     try {
         if(Object.keys(filters).length === 0) {
             throw new Error('Please, provide at least one search option');

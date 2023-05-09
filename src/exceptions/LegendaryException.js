@@ -5,6 +5,4 @@ class LegendaryException extends Error {
     }
 }
 
-module.exports = {
-    LegendaryException,
-}
+module.exports = { LegendaryException }

@@ -1,0 +1,116 @@
+[
+    {
+      "name": "Ash Ketchum",
+      "age": 10,
+      "location": "Pallet Town",
+      "is_leader": false,
+      "badges": ["Boulder Badge", "Cascade Badge"],
+      "speciality": "Electric",
+      "pokemons": ["6445be7b38bc4a0ad2126352", "6445be7b38bc4a0ad212633f"]
+    },
+    {
+      "name": "Misty",
+      "age": 12,
+      "location": "Cerulean City",
+      "is_leader": true,
+      "badges": ["Cascade Badge", "Thunder Badge", "Rainbow Badge", "Soul Badge"],
+      "speciality": "Water",
+      "pokemons": ["6445be7b38bc4a0ad21263b1", "6445be7b38bc4a0ad21263b2", "6445be7b38bc4a0ad212636f"]
+    },
+    {
+      "name": "Brock",
+      "age": 15,
+      "location": "Pewter City",
+      "is_leader": true,
+      "badges": ["Boulder Badge", "Cascade Badge", "Thunder Badge", "Rainbow Badge"],
+      "speciality": "Rock",
+      "pokemons": ["6445be7b38bc4a0ad2126398", "6445be7b38bc4a0ad2126383", "6445be7b38bc4a0ad2126362"]
+    },
+    {
+      "name": "Lt. Surge",
+      "age": 27,
+      "location": "Vermilion City",
+      "is_leader": true,
+      "badges": ["Thunder Badge"],
+      "speciality": "Electric",
+      "pokemons": ["6445be7b38bc4a0ad2126353", "6445be7b38bc4a0ad212639d", "6445be7b38bc4a0ad212639e"]
+    },
+    {
+      "name": "Sabrina",
+      "age": 23,
+      "location": "Saffron City",
+      "is_leader": true,
+      "badges": ["Marsh Badge", "Soul Badge"],
+      "speciality": "Psychic",
+      "pokemons": ["6445be7b38bc4a0ad2126379", "6445be7b38bc4a0ad21263b3", "6445be7b38bc4a0ad2126369"]
+    },
+    {
+      "name": "Blaine",
+      "age": 55,
+      "location": "Cinnabar Island",
+      "is_leader": true,
+      "badges": ["Volcano Badge"],
+      "speciality": "Fire",
+      "pokemons": ["6445be7b38bc4a0ad2126373", "6445be7b38bc4a0ad2126386", "6445be7b38bc4a0ad2126387"]
+    },
+    {
+      "name": "Erika",
+      "age": 24,
+      "location": "Celadon City",
+      "is_leader": true,
+      "badges": ["Rainbow Badge"],
+      "speciality": "Grass",
+      "pokemons": ["6445be7b38bc4a0ad21263ab", "6445be7b38bc4a0ad2126380", "6445be7b38bc4a0ad2126366"]
+    },
+    {
+      "name": "Janine",
+      "age": 16,
+      "location": "Fuchsia City",
+      "is_leader": true,
+      "badges": ["Soul Badge"],
+      "speciality": "Poison",
+      "pokemons": ["6445be7b38bc4a0ad21263a6", "6445be7b38bc4a0ad21263a7", "6445be7b38bc4a0ad21263e1"]
+    },
+    {
+      "name": "Giovanni",
+      "age": 42,
+      "location": "Viridian City",
+      "is_leader": true,
+      "badges": ["Earth Badge"],
+      "speciality": "Ground",
+      "pokemons": ["6445be7b38bc4a0ad2126358", "6445be7b38bc4a0ad212635b", "6445be7b38bc4a0ad21263a9"]
+    },
+    {
+        "name": "Koga",
+        "age": 34,
+        "location": "Fuchsia City",
+        "is_leader": false,
+        "badges": ["Soul Badge", "Marsh Badge"],
+        "speciality": "Poison",
+        "pokemons": ["6445be7b38bc4a0ad21263a6","6445be7b38bc4a0ad21263a7","6445be7b38bc4a0ad2126369","6445be7b38bc4a0ad212636a"]
+      },
+      {
+        "name": "Falkner",
+        "age": 29,
+        "location": "Violet City",
+        "is_leader": true,
+        "badges": ["Zephyr Badge", "Feather Badge"],
+        "speciality": "Flying",
+        "pokemons": ["6445be7b38bc4a0ad2126349", "6445be7b38bc4a0ad212634a", "6445be7b38bc4a0ad212634b", "6445be7b38bc4a0ad212638e"]
+       },
+       {
+        "name": "Bugsy",
+        "age": 17,
+        "location": "Azalea Town",
+        "is_leader": false,
+        "badges": ["Hive Badge"],
+        "speciality": "Bug",
+        "pokemons": ["6445be7b38bc4a0ad2126344","6445be7b38bc4a0ad2126347","6445be7b38bc4a0ad21263b4","6445be7b38bc4a0ad21263b8"]
+      }
+]
+      
+          
+
+      
+
+      

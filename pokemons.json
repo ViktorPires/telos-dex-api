@@ -1,0 +1,10030 @@
+[{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212633c"
+  },
+  "attack": 100,
+  "defense": 123,
+  "hp": 80,
+  "name": "Venusaur",
+  "pokedex_number": 3,
+  "speed": 80,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126341"
+  },
+  "attack": 63,
+  "defense": 80,
+  "hp": 59,
+  "name": "Wartortle",
+  "pokedex_number": 8,
+  "speed": 58,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212634f"
+  },
+  "attack": 90,
+  "defense": 65,
+  "hp": 65,
+  "name": "Fearow",
+  "pokedex_number": 22,
+  "speed": 100,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212633f"
+  },
+  "attack": 104,
+  "defense": 78,
+  "hp": 78,
+  "name": "Charizard",
+  "pokedex_number": 6,
+  "speed": 100,
+  "type1": "fire",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126346"
+  },
+  "attack": 35,
+  "defense": 30,
+  "hp": 40,
+  "name": "Weedle",
+  "pokedex_number": 13,
+  "speed": 50,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126358"
+  },
+  "attack": 92,
+  "defense": 87,
+  "hp": 90,
+  "name": "Nidoqueen",
+  "pokedex_number": 31,
+  "speed": 76,
+  "type1": "poison",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126356"
+  },
+  "attack": 47,
+  "defense": 52,
+  "hp": 55,
+  "name": "Nidoran♀",
+  "pokedex_number": 29,
+  "speed": 41,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212637a"
+  },
+  "attack": 50,
+  "defense": 65,
+  "hp": 55,
+  "name": "Alakazam",
+  "pokedex_number": 65,
+  "speed": 150,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212637b"
+  },
+  "attack": 80,
+  "defense": 50,
+  "hp": 70,
+  "name": "Machop",
+  "pokedex_number": 66,
+  "speed": 35,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126381"
+  },
+  "attack": 40,
+  "defense": 35,
+  "hp": 40,
+  "name": "Tentacool",
+  "pokedex_number": 72,
+  "speed": 70,
+  "type1": "water",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212639b"
+  },
+  "attack": 105,
+  "defense": 90,
+  "hp": 30,
+  "name": "Krabby",
+  "pokedex_number": 98,
+  "speed": 50,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a4"
+  },
+  "attack": 105,
+  "defense": 79,
+  "hp": 50,
+  "name": "Hitmonchan",
+  "pokedex_number": 107,
+  "speed": 76,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c4"
+  },
+  "attack": 60,
+  "defense": 125,
+  "hp": 70,
+  "name": "Omastar",
+  "pokedex_number": 139,
+  "speed": 55,
+  "type1": "rock",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c5"
+  },
+  "attack": 80,
+  "defense": 90,
+  "hp": 30,
+  "name": "Kabuto",
+  "pokedex_number": 140,
+  "speed": 55,
+  "type1": "rock",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ce"
+  },
+  "attack": 134,
+  "defense": 95,
+  "hp": 91,
+  "name": "Dragonite",
+  "pokedex_number": 149,
+  "speed": 80,
+  "type1": "dragon",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f2"
+  },
+  "attack": 100,
+  "defense": 115,
+  "hp": 70,
+  "name": "Sudowoodo",
+  "pokedex_number": 185,
+  "speed": 30,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126424"
+  },
+  "attack": 20,
+  "defense": 35,
+  "hp": 55,
+  "name": "Smeargle",
+  "pokedex_number": 235,
+  "speed": 75,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126431"
+  },
+  "attack": 164,
+  "defense": 150,
+  "hp": 100,
+  "name": "Tyranitar",
+  "pokedex_number": 248,
+  "speed": 71,
+  "type1": "rock",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126433"
+  },
+  "attack": 130,
+  "defense": 90,
+  "hp": 106,
+  "name": "Ho-Oh",
+  "pokedex_number": 250,
+  "speed": 90,
+  "type1": "fire",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212643f"
+  },
+  "attack": 90,
+  "defense": 70,
+  "hp": 70,
+  "name": "Mightyena",
+  "pokedex_number": 262,
+  "speed": 70,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126444"
+  },
+  "attack": 70,
+  "defense": 50,
+  "hp": 60,
+  "name": "Beautifly",
+  "pokedex_number": 267,
+  "speed": 65,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126450"
+  },
+  "attack": 50,
+  "defense": 100,
+  "hp": 60,
+  "name": "Pelipper",
+  "pokedex_number": 279,
+  "speed": 65,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126451"
+  },
+  "attack": 25,
+  "defense": 25,
+  "hp": 28,
+  "name": "Ralts",
+  "pokedex_number": 280,
+  "speed": 40,
+  "type1": "psychic",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212645c"
+  },
+  "attack": 90,
+  "defense": 45,
+  "hp": 61,
+  "name": "Ninjask",
+  "pokedex_number": 291,
+  "speed": 160,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126469"
+  },
+  "attack": 70,
+  "defense": 100,
+  "hp": 50,
+  "name": "Aron",
+  "pokedex_number": 304,
+  "speed": 30,
+  "type1": "steel",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a6"
+  },
+  "attack": 80,
+  "defense": 90,
+  "hp": 110,
+  "name": "Walrein",
+  "pokedex_number": 365,
+  "speed": 65,
+  "type1": "ice",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264af"
+  },
+  "attack": 55,
+  "defense": 80,
+  "hp": 40,
+  "name": "Beldum",
+  "pokedex_number": 374,
+  "speed": 30,
+  "type1": "steel",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b7"
+  },
+  "attack": 150,
+  "defense": 90,
+  "hp": 100,
+  "name": "Kyogre",
+  "pokedex_number": 382,
+  "speed": 90,
+  "type1": "water",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264dd"
+  },
+  "attack": 35,
+  "defense": 45,
+  "hp": 45,
+  "name": "Cherubi",
+  "pokedex_number": 420,
+  "speed": 35,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264fa"
+  },
+  "attack": 72,
+  "defense": 78,
+  "hp": 68,
+  "name": "Hippopotas",
+  "pokedex_number": 449,
+  "speed": 32,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264fd"
+  },
+  "attack": 90,
+  "defense": 110,
+  "hp": 70,
+  "name": "Drapion",
+  "pokedex_number": 452,
+  "speed": 95,
+  "type1": "poison",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126504"
+  },
+  "attack": 62,
+  "defense": 50,
+  "hp": 60,
+  "name": "Snover",
+  "pokedex_number": 459,
+  "speed": 40,
+  "type1": "grass",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212651b"
+  },
+  "attack": 125,
+  "defense": 70,
+  "hp": 75,
+  "name": "Azelf",
+  "pokedex_number": 482,
+  "speed": 115,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126524"
+  },
+  "attack": 90,
+  "defense": 90,
+  "hp": 70,
+  "name": "Darkrai",
+  "pokedex_number": 491,
+  "speed": 125,
+  "type1": "dark",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126541"
+  },
+  "attack": 77,
+  "defense": 62,
+  "hp": 62,
+  "name": "Tranquill",
+  "pokedex_number": 520,
+  "speed": 65,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126586"
+  },
+  "attack": 135,
+  "defense": 105,
+  "hp": 70,
+  "name": "Escavalier",
+  "pokedex_number": 589,
+  "speed": 20,
+  "type1": "bug",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212659a"
+  },
+  "attack": 55,
+  "defense": 90,
+  "hp": 60,
+  "name": "Chandelure",
+  "pokedex_number": 609,
+  "speed": 80,
+  "type1": "ghost",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a6"
+  },
+  "attack": 120,
+  "defense": 90,
+  "hp": 77,
+  "name": "Druddigon",
+  "pokedex_number": 621,
+  "speed": 48,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ae"
+  },
+  "attack": 55,
+  "defense": 75,
+  "hp": 70,
+  "name": "Vullaby",
+  "pokedex_number": 629,
+  "speed": 60,
+  "type1": "dark",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265af"
+  },
+  "attack": 65,
+  "defense": 105,
+  "hp": 110,
+  "name": "Mandibuzz",
+  "pokedex_number": 630,
+  "speed": 80,
+  "type1": "dark",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265cd"
+  },
+  "attack": 56,
+  "defense": 77,
+  "hp": 85,
+  "name": "Diggersby",
+  "pokedex_number": 660,
+  "speed": 78,
+  "type1": "normal",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e1"
+  },
+  "attack": 110,
+  "defense": 150,
+  "hp": 59,
+  "name": "Doublade",
+  "pokedex_number": 680,
+  "speed": 35,
+  "type1": "steel",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126633"
+  },
+  "attack": 40,
+  "defense": 48,
+  "hp": 52,
+  "name": "Steenee",
+  "pokedex_number": 762,
+  "speed": 62,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126647"
+  },
+  "attack": 55,
+  "defense": 65,
+  "hp": 45,
+  "name": "Jangmo-o",
+  "pokedex_number": 782,
+  "speed": 45,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126654"
+  },
+  "attack": 137,
+  "defense": 37,
+  "hp": 71,
+  "name": "Pheromosa",
+  "pokedex_number": 795,
+  "speed": 151,
+  "type1": "bug",
+  "type2": "fighting",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126659"
+  },
+  "attack": 107,
+  "defense": 101,
+  "hp": 97,
+  "name": "Necrozma",
+  "pokedex_number": 800,
+  "speed": 79,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212633d"
+  },
+  "attack": 52,
+  "defense": 43,
+  "hp": 39,
+  "name": "Charmander",
+  "pokedex_number": 4,
+  "speed": 65,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212635f"
+  },
+  "attack": 67,
+  "defense": 75,
+  "hp": 73,
+  "name": "Ninetales",
+  "pokedex_number": 38,
+  "speed": 109,
+  "type1": "fire",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126362"
+  },
+  "attack": 45,
+  "defense": 35,
+  "hp": 40,
+  "name": "Zubat",
+  "pokedex_number": 41,
+  "speed": 55,
+  "type1": "poison",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126364"
+  },
+  "attack": 50,
+  "defense": 55,
+  "hp": 45,
+  "name": "Oddish",
+  "pokedex_number": 43,
+  "speed": 30,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126366"
+  },
+  "attack": 80,
+  "defense": 85,
+  "hp": 75,
+  "name": "Vileplume",
+  "pokedex_number": 45,
+  "speed": 50,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126380"
+  },
+  "attack": 105,
+  "defense": 65,
+  "hp": 80,
+  "name": "Victreebel",
+  "pokedex_number": 71,
+  "speed": 70,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a3"
+  },
+  "attack": 120,
+  "defense": 53,
+  "hp": 50,
+  "name": "Hitmonlee",
+  "pokedex_number": 106,
+  "speed": 87,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ba"
+  },
+  "attack": 10,
+  "defense": 55,
+  "hp": 20,
+  "name": "Magikarp",
+  "pokedex_number": 129,
+  "speed": 80,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d2"
+  },
+  "attack": 62,
+  "defense": 80,
+  "hp": 60,
+  "name": "Bayleef",
+  "pokedex_number": 153,
+  "speed": 60,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126402"
+  },
+  "attack": 72,
+  "defense": 48,
+  "hp": 48,
+  "name": "Unown",
+  "pokedex_number": 201,
+  "speed": 48,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126416"
+  },
+  "attack": 100,
+  "defense": 80,
+  "hp": 100,
+  "name": "Piloswine",
+  "pokedex_number": 221,
+  "speed": 50,
+  "type1": "ice",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126419"
+  },
+  "attack": 105,
+  "defense": 75,
+  "hp": 75,
+  "name": "Octillery",
+  "pokedex_number": 224,
+  "speed": 45,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212641a"
+  },
+  "attack": 55,
+  "defense": 45,
+  "hp": 45,
+  "name": "Delibird",
+  "pokedex_number": 225,
+  "speed": 75,
+  "type1": "ice",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212641f"
+  },
+  "attack": 95,
+  "defense": 95,
+  "hp": 75,
+  "name": "Kingdra",
+  "pokedex_number": 230,
+  "speed": 85,
+  "type1": "water",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126420"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 90,
+  "name": "Phanpy",
+  "pokedex_number": 231,
+  "speed": 40,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212642d"
+  },
+  "attack": 115,
+  "defense": 85,
+  "hp": 115,
+  "name": "Entei",
+  "pokedex_number": 244,
+  "speed": 100,
+  "type1": "fire",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212642e"
+  },
+  "attack": 75,
+  "defense": 115,
+  "hp": 100,
+  "name": "Suicune",
+  "pokedex_number": 245,
+  "speed": 85,
+  "type1": "water",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126430"
+  },
+  "attack": 84,
+  "defense": 70,
+  "hp": 70,
+  "name": "Pupitar",
+  "pokedex_number": 247,
+  "speed": 51,
+  "type1": "rock",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126439"
+  },
+  "attack": 85,
+  "defense": 60,
+  "hp": 60,
+  "name": "Combusken",
+  "pokedex_number": 256,
+  "speed": 55,
+  "type1": "fire",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a0"
+  },
+  "attack": 150,
+  "defense": 60,
+  "hp": 65,
+  "name": "Absol",
+  "pokedex_number": 359,
+  "speed": 115,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a8"
+  },
+  "attack": 104,
+  "defense": 105,
+  "hp": 55,
+  "name": "Huntail",
+  "pokedex_number": 367,
+  "speed": 52,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264aa"
+  },
+  "attack": 90,
+  "defense": 130,
+  "hp": 100,
+  "name": "Relicanth",
+  "pokedex_number": 369,
+  "speed": 55,
+  "type1": "water",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e9"
+  },
+  "attack": 82,
+  "defense": 64,
+  "hp": 71,
+  "name": "Purugly",
+  "pokedex_number": 432,
+  "speed": 112,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126507"
+  },
+  "attack": 70,
+  "defense": 115,
+  "hp": 70,
+  "name": "Magnezone",
+  "pokedex_number": 462,
+  "speed": 60,
+  "type1": "electric",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126511"
+  },
+  "attack": 95,
+  "defense": 125,
+  "hp": 75,
+  "name": "Gliscor",
+  "pokedex_number": 472,
+  "speed": 95,
+  "type1": "ground",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126517"
+  },
+  "attack": 80,
+  "defense": 70,
+  "hp": 70,
+  "name": "Froslass",
+  "pokedex_number": 478,
+  "speed": 110,
+  "type1": "ice",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212651c"
+  },
+  "attack": 120,
+  "defense": 120,
+  "hp": 100,
+  "name": "Dialga",
+  "pokedex_number": 483,
+  "speed": 90,
+  "type1": "steel",
+  "type2": "dragon",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126532"
+  },
+  "attack": 85,
+  "defense": 69,
+  "hp": 60,
+  "name": "Watchog",
+  "pokedex_number": 505,
+  "speed": 77,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212654e"
+  },
+  "attack": 105,
+  "defense": 85,
+  "hp": 85,
+  "name": "Gurdurr",
+  "pokedex_number": 533,
+  "speed": 40,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212656d"
+  },
+  "attack": 78,
+  "defense": 103,
+  "hp": 54,
+  "name": "Tirtouga",
+  "pokedex_number": 564,
+  "speed": 22,
+  "type1": "water",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126594"
+  },
+  "attack": 85,
+  "defense": 70,
+  "hp": 65,
+  "name": "Eelektrik",
+  "pokedex_number": 603,
+  "speed": 40,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ad"
+  },
+  "attack": 123,
+  "defense": 75,
+  "hp": 100,
+  "name": "Braviary",
+  "pokedex_number": 628,
+  "speed": 80,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c8"
+  },
+  "attack": 69,
+  "defense": 72,
+  "hp": 75,
+  "name": "Delphox",
+  "pokedex_number": 655,
+  "speed": 104,
+  "type1": "fire",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d5"
+  },
+  "attack": 68,
+  "defense": 72,
+  "hp": 86,
+  "name": "Pyroar",
+  "pokedex_number": 668,
+  "speed": 106,
+  "type1": "fire",
+  "type2": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d9"
+  },
+  "attack": 65,
+  "defense": 48,
+  "hp": 66,
+  "name": "Skiddo",
+  "pokedex_number": 672,
+  "speed": 52,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265dd"
+  },
+  "attack": 80,
+  "defense": 60,
+  "hp": 75,
+  "name": "Furfrou",
+  "pokedex_number": 676,
+  "speed": 102,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f9"
+  },
+  "attack": 50,
+  "defense": 35,
+  "hp": 45,
+  "name": "Goomy",
+  "pokedex_number": 704,
+  "speed": 40,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126603"
+  },
+  "attack": 30,
+  "defense": 35,
+  "hp": 40,
+  "name": "Noibat",
+  "pokedex_number": 714,
+  "speed": 55,
+  "type1": "flying",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126608"
+  },
+  "attack": 160,
+  "defense": 110,
+  "hp": 50,
+  "name": "Diancie",
+  "pokedex_number": 719,
+  "speed": 110,
+  "type1": "rock",
+  "type2": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212660b"
+  },
+  "attack": 55,
+  "defense": 55,
+  "hp": 68,
+  "name": "Rowlet",
+  "pokedex_number": 722,
+  "speed": 42,
+  "type1": "grass",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212661f"
+  },
+  "attack": 45,
+  "defense": 40,
+  "hp": 40,
+  "name": "Cutiefly",
+  "pokedex_number": 742,
+  "speed": 84,
+  "type1": "bug",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126625"
+  },
+  "attack": 63,
+  "defense": 152,
+  "hp": 50,
+  "name": "Toxapex",
+  "pokedex_number": 748,
+  "speed": 35,
+  "type1": "poison",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212662e"
+  },
+  "attack": 44,
+  "defense": 40,
+  "hp": 48,
+  "name": "Salandit",
+  "pokedex_number": 757,
+  "speed": 77,
+  "type1": "poison",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212663c"
+  },
+  "attack": 60,
+  "defense": 130,
+  "hp": 55,
+  "name": "Pyukumuku",
+  "pokedex_number": 771,
+  "speed": 5,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126640"
+  },
+  "attack": 115,
+  "defense": 65,
+  "hp": 65,
+  "name": "Komala",
+  "pokedex_number": 775,
+  "speed": 65,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212633b"
+  },
+  "attack": 62,
+  "defense": 63,
+  "hp": 60,
+  "name": "Ivysaur",
+  "pokedex_number": 2,
+  "speed": 60,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126348"
+  },
+  "attack": 150,
+  "defense": 40,
+  "hp": 65,
+  "name": "Beedrill",
+  "pokedex_number": 15,
+  "speed": 145,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212637d"
+  },
+  "attack": 130,
+  "defense": 80,
+  "hp": 90,
+  "name": "Machamp",
+  "pokedex_number": 68,
+  "speed": 55,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126388"
+  },
+  "attack": 65,
+  "defense": 65,
+  "hp": 90,
+  "name": "Slowpoke",
+  "pokedex_number": 79,
+  "speed": 15,
+  "type1": "water",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212638c"
+  },
+  "attack": 90,
+  "defense": 55,
+  "hp": 52,
+  "name": "Farfetch'd",
+  "pokedex_number": 83,
+  "speed": 60,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212638e"
+  },
+  "attack": 110,
+  "defense": 70,
+  "hp": 60,
+  "name": "Dodrio",
+  "pokedex_number": 85,
+  "speed": 110,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c8"
+  },
+  "attack": 110,
+  "defense": 65,
+  "hp": 160,
+  "name": "Snorlax",
+  "pokedex_number": 143,
+  "speed": 30,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263db"
+  },
+  "attack": 76,
+  "defense": 64,
+  "hp": 85,
+  "name": "Furret",
+  "pokedex_number": 162,
+  "speed": 90,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ed"
+  },
+  "attack": 55,
+  "defense": 55,
+  "hp": 70,
+  "name": "Flaaffy",
+  "pokedex_number": 180,
+  "speed": 45,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f3"
+  },
+  "attack": 75,
+  "defense": 75,
+  "hp": 90,
+  "name": "Politoed",
+  "pokedex_number": 186,
+  "speed": 70,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f8"
+  },
+  "attack": 30,
+  "defense": 30,
+  "hp": 30,
+  "name": "Sunkern",
+  "pokedex_number": 191,
+  "speed": 30,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126403"
+  },
+  "attack": 33,
+  "defense": 58,
+  "hp": 190,
+  "name": "Wobbuffet",
+  "pokedex_number": 202,
+  "speed": 33,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126407"
+  },
+  "attack": 70,
+  "defense": 70,
+  "hp": 100,
+  "name": "Dunsparce",
+  "pokedex_number": 206,
+  "speed": 45,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126418"
+  },
+  "attack": 65,
+  "defense": 35,
+  "hp": 35,
+  "name": "Remoraid",
+  "pokedex_number": 223,
+  "speed": 65,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126428"
+  },
+  "attack": 63,
+  "defense": 37,
+  "hp": 45,
+  "name": "Elekid",
+  "pokedex_number": 239,
+  "speed": 95,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126447"
+  },
+  "attack": 30,
+  "defense": 30,
+  "hp": 40,
+  "name": "Lotad",
+  "pokedex_number": 270,
+  "speed": 30,
+  "type1": "water",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126481"
+  },
+  "attack": 100,
+  "defense": 45,
+  "hp": 45,
+  "name": "Trapinch",
+  "pokedex_number": 328,
+  "speed": 10,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126485"
+  },
+  "attack": 115,
+  "defense": 60,
+  "hp": 70,
+  "name": "Cacturne",
+  "pokedex_number": 332,
+  "speed": 55,
+  "type1": "grass",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c5"
+  },
+  "attack": 55,
+  "defense": 30,
+  "hp": 40,
+  "name": "Starly",
+  "pokedex_number": 396,
+  "speed": 60,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c6"
+  },
+  "attack": 75,
+  "defense": 50,
+  "hp": 55,
+  "name": "Staravia",
+  "pokedex_number": 397,
+  "speed": 80,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d4"
+  },
+  "attack": 52,
+  "defense": 168,
+  "hp": 60,
+  "name": "Bastiodon",
+  "pokedex_number": 411,
+  "speed": 30,
+  "type1": "rock",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d8"
+  },
+  "attack": 30,
+  "defense": 42,
+  "hp": 30,
+  "name": "Combee",
+  "pokedex_number": 415,
+  "speed": 70,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126519"
+  },
+  "attack": 75,
+  "defense": 130,
+  "hp": 75,
+  "name": "Uxie",
+  "pokedex_number": 480,
+  "speed": 95,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126520"
+  },
+  "attack": 120,
+  "defense": 100,
+  "hp": 150,
+  "name": "Giratina",
+  "pokedex_number": 487,
+  "speed": 90,
+  "type1": "ghost",
+  "type2": "dragon",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126533"
+  },
+  "attack": 60,
+  "defense": 45,
+  "hp": 45,
+  "name": "Lillipup",
+  "pokedex_number": 506,
+  "speed": 55,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212653d"
+  },
+  "attack": 98,
+  "defense": 63,
+  "hp": 75,
+  "name": "Simipour",
+  "pokedex_number": 516,
+  "speed": 101,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126543"
+  },
+  "attack": 60,
+  "defense": 32,
+  "hp": 45,
+  "name": "Blitzle",
+  "pokedex_number": 522,
+  "speed": 76,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126545"
+  },
+  "attack": 75,
+  "defense": 85,
+  "hp": 55,
+  "name": "Roggenrola",
+  "pokedex_number": 524,
+  "speed": 15,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212656a"
+  },
+  "attack": 58,
+  "defense": 80,
+  "hp": 72,
+  "name": "Sigilyph",
+  "pokedex_number": 561,
+  "speed": 97,
+  "type1": "psychic",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212657e"
+  },
+  "attack": 87,
+  "defense": 63,
+  "hp": 75,
+  "name": "Swanna",
+  "pokedex_number": 581,
+  "speed": 98,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126597"
+  },
+  "attack": 75,
+  "defense": 75,
+  "hp": 75,
+  "name": "Beheeyem",
+  "pokedex_number": 606,
+  "speed": 40,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126598"
+  },
+  "attack": 30,
+  "defense": 55,
+  "hp": 50,
+  "name": "Litwick",
+  "pokedex_number": 607,
+  "speed": 20,
+  "type1": "ghost",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212659b"
+  },
+  "attack": 87,
+  "defense": 60,
+  "hp": 46,
+  "name": "Axew",
+  "pokedex_number": 610,
+  "speed": 57,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b6"
+  },
+  "attack": 60,
+  "defense": 65,
+  "hp": 85,
+  "name": "Volcarona",
+  "pokedex_number": 637,
+  "speed": 100,
+  "type1": "bug",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265bf"
+  },
+  "attack": 120,
+  "defense": 90,
+  "hp": 125,
+  "name": "Kyurem",
+  "pokedex_number": 646,
+  "speed": 95,
+  "type1": "dragon",
+  "type2": "ice",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c2"
+  },
+  "attack": 120,
+  "defense": 95,
+  "hp": 71,
+  "name": "Genesect",
+  "pokedex_number": 649,
+  "speed": 99,
+  "type1": "bug",
+  "type2": "steel",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c9"
+  },
+  "attack": 56,
+  "defense": 40,
+  "hp": 41,
+  "name": "Froakie",
+  "pokedex_number": 656,
+  "speed": 71,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d4"
+  },
+  "attack": 50,
+  "defense": 58,
+  "hp": 62,
+  "name": "Litleo",
+  "pokedex_number": 667,
+  "speed": 72,
+  "type1": "fire",
+  "type2": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265da"
+  },
+  "attack": 100,
+  "defense": 62,
+  "hp": 123,
+  "name": "Gogoat",
+  "pokedex_number": 673,
+  "speed": 68,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e0"
+  },
+  "attack": 80,
+  "defense": 100,
+  "hp": 45,
+  "name": "Honedge",
+  "pokedex_number": 679,
+  "speed": 28,
+  "type1": "steel",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e6"
+  },
+  "attack": 80,
+  "defense": 86,
+  "hp": 82,
+  "name": "Slurpuff",
+  "pokedex_number": 685,
+  "speed": 72,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ee"
+  },
+  "attack": 73,
+  "defense": 88,
+  "hp": 71,
+  "name": "Clawitzer",
+  "pokedex_number": 693,
+  "speed": 59,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ff"
+  },
+  "attack": 66,
+  "defense": 70,
+  "hp": 59,
+  "name": "Pumpkaboo",
+  "pokedex_number": 710,
+  "speed": 41,
+  "type1": "ghost",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126607"
+  },
+  "attack": 100,
+  "defense": 121,
+  "hp": 216,
+  "name": "Zygarde",
+  "pokedex_number": 718,
+  "speed": 85,
+  "type1": "dragon",
+  "type2": "ground",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126617"
+  },
+  "attack": 70,
+  "defense": 30,
+  "hp": 48,
+  "name": "Yungoos",
+  "pokedex_number": 734,
+  "speed": 45,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126631"
+  },
+  "attack": 125,
+  "defense": 80,
+  "hp": 120,
+  "name": "Bewear",
+  "pokedex_number": 760,
+  "speed": 60,
+  "type1": "normal",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126638"
+  },
+  "attack": 35,
+  "defense": 40,
+  "hp": 25,
+  "name": "Wimpod",
+  "pokedex_number": 767,
+  "speed": 80,
+  "type1": "bug",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212663d"
+  },
+  "attack": 95,
+  "defense": 95,
+  "hp": 95,
+  "name": "Type: Null",
+  "pokedex_number": 772,
+  "speed": 59,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126648"
+  },
+  "attack": 75,
+  "defense": 90,
+  "hp": 55,
+  "name": "Hakamo-o",
+  "pokedex_number": 783,
+  "speed": 65,
+  "type1": "dragon",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126652"
+  },
+  "attack": 53,
+  "defense": 47,
+  "hp": 109,
+  "name": "Nihilego",
+  "pokedex_number": 793,
+  "speed": 103,
+  "type1": "rock",
+  "type2": "poison",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126347"
+  },
+  "attack": 25,
+  "defense": 50,
+  "hp": 45,
+  "name": "Kakuna",
+  "pokedex_number": 14,
+  "speed": 35,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126353"
+  },
+  "attack": 85,
+  "defense": 50,
+  "hp": 60,
+  "name": "Raichu",
+  "pokedex_number": 26,
+  "speed": 110,
+  "type1": "electric",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126354"
+  },
+  "attack": 75,
+  "defense": 90,
+  "hp": 50,
+  "name": "Sandshrew",
+  "pokedex_number": 27,
+  "speed": 40,
+  "type1": "ground",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126361"
+  },
+  "attack": 70,
+  "defense": 45,
+  "hp": 140,
+  "name": "Wigglytuff",
+  "pokedex_number": 40,
+  "speed": 45,
+  "type1": "normal",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212636a"
+  },
+  "attack": 65,
+  "defense": 60,
+  "hp": 70,
+  "name": "Venomoth",
+  "pokedex_number": 49,
+  "speed": 90,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126399"
+  },
+  "attack": 48,
+  "defense": 45,
+  "hp": 60,
+  "name": "Drowzee",
+  "pokedex_number": 96,
+  "speed": 42,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a5"
+  },
+  "attack": 55,
+  "defense": 75,
+  "hp": 90,
+  "name": "Lickitung",
+  "pokedex_number": 108,
+  "speed": 30,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b2"
+  },
+  "attack": 75,
+  "defense": 85,
+  "hp": 60,
+  "name": "Starmie",
+  "pokedex_number": 121,
+  "speed": 115,
+  "type1": "water",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b3"
+  },
+  "attack": 45,
+  "defense": 65,
+  "hp": 40,
+  "name": "Mr. Mime",
+  "pokedex_number": 122,
+  "speed": 90,
+  "type1": "psychic",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c7"
+  },
+  "attack": 135,
+  "defense": 85,
+  "hp": 80,
+  "name": "Aerodactyl",
+  "pokedex_number": 142,
+  "speed": 150,
+  "type1": "rock",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d9"
+  },
+  "attack": 105,
+  "defense": 100,
+  "hp": 85,
+  "name": "Feraligatr",
+  "pokedex_number": 160,
+  "speed": 78,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263da"
+  },
+  "attack": 46,
+  "defense": 34,
+  "hp": 35,
+  "name": "Sentret",
+  "pokedex_number": 161,
+  "speed": 20,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e7"
+  },
+  "attack": 30,
+  "defense": 15,
+  "hp": 90,
+  "name": "Igglybuff",
+  "pokedex_number": 174,
+  "speed": 15,
+  "type1": "normal",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f6"
+  },
+  "attack": 55,
+  "defense": 70,
+  "hp": 75,
+  "name": "Jumpluff",
+  "pokedex_number": 189,
+  "speed": 110,
+  "type1": "grass",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212641d"
+  },
+  "attack": 60,
+  "defense": 30,
+  "hp": 45,
+  "name": "Houndour",
+  "pokedex_number": 228,
+  "speed": 65,
+  "type1": "dark",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212642b"
+  },
+  "attack": 10,
+  "defense": 10,
+  "hp": 255,
+  "name": "Blissey",
+  "pokedex_number": 242,
+  "speed": 55,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126440"
+  },
+  "attack": 30,
+  "defense": 41,
+  "hp": 38,
+  "name": "Zigzagoon",
+  "pokedex_number": 263,
+  "speed": 60,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126448"
+  },
+  "attack": 50,
+  "defense": 50,
+  "hp": 60,
+  "name": "Lombre",
+  "pokedex_number": 271,
+  "speed": 50,
+  "type1": "water",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212644c"
+  },
+  "attack": 100,
+  "defense": 60,
+  "hp": 90,
+  "name": "Shiftry",
+  "pokedex_number": 275,
+  "speed": 80,
+  "type1": "grass",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126457"
+  },
+  "attack": 130,
+  "defense": 80,
+  "hp": 60,
+  "name": "Breloom",
+  "pokedex_number": 286,
+  "speed": 70,
+  "type1": "grass",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212645e"
+  },
+  "attack": 51,
+  "defense": 23,
+  "hp": 64,
+  "name": "Whismur",
+  "pokedex_number": 293,
+  "speed": 28,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212646b"
+  },
+  "attack": 140,
+  "defense": 230,
+  "hp": 70,
+  "name": "Aggron",
+  "pokedex_number": 306,
+  "speed": 50,
+  "type1": "steel",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212646f"
+  },
+  "attack": 75,
+  "defense": 80,
+  "hp": 70,
+  "name": "Manectric",
+  "pokedex_number": 310,
+  "speed": 135,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126499"
+  },
+  "attack": 90,
+  "defense": 70,
+  "hp": 60,
+  "name": "Kecleon",
+  "pokedex_number": 352,
+  "speed": 40,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212649f"
+  },
+  "attack": 50,
+  "defense": 80,
+  "hp": 75,
+  "name": "Chimecho",
+  "pokedex_number": 358,
+  "speed": 65,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a5"
+  },
+  "attack": 60,
+  "defense": 70,
+  "hp": 90,
+  "name": "Sealeo",
+  "pokedex_number": 364,
+  "speed": 45,
+  "type1": "ice",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a7"
+  },
+  "attack": 64,
+  "defense": 85,
+  "hp": 35,
+  "name": "Clamperl",
+  "pokedex_number": 366,
+  "speed": 32,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b8"
+  },
+  "attack": 180,
+  "defense": 160,
+  "hp": 100,
+  "name": "Groudon",
+  "pokedex_number": 383,
+  "speed": 90,
+  "type1": "ground",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264bf"
+  },
+  "attack": 58,
+  "defense": 44,
+  "hp": 44,
+  "name": "Chimchar",
+  "pokedex_number": 390,
+  "speed": 61,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ca"
+  },
+  "attack": 25,
+  "defense": 41,
+  "hp": 37,
+  "name": "Kricketot",
+  "pokedex_number": 401,
+  "speed": 25,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ea"
+  },
+  "attack": 30,
+  "defense": 50,
+  "hp": 45,
+  "name": "Chingling",
+  "pokedex_number": 433,
+  "speed": 45,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264fb"
+  },
+  "attack": 112,
+  "defense": 118,
+  "hp": 108,
+  "name": "Hippowdon",
+  "pokedex_number": 450,
+  "speed": 47,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126515"
+  },
+  "attack": 55,
+  "defense": 145,
+  "hp": 60,
+  "name": "Probopass",
+  "pokedex_number": 476,
+  "speed": 40,
+  "type1": "rock",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126525"
+  },
+  "attack": 103,
+  "defense": 75,
+  "hp": 100,
+  "name": "Shaymin",
+  "pokedex_number": 492,
+  "speed": 127,
+  "type1": "grass",
+  "type2": "grass",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126534"
+  },
+  "attack": 80,
+  "defense": 65,
+  "hp": 65,
+  "name": "Herdier",
+  "pokedex_number": 507,
+  "speed": 60,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212654a"
+  },
+  "attack": 85,
+  "defense": 40,
+  "hp": 60,
+  "name": "Drilbur",
+  "pokedex_number": 529,
+  "speed": 68,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212654b"
+  },
+  "attack": 135,
+  "defense": 60,
+  "hp": 110,
+  "name": "Excadrill",
+  "pokedex_number": 530,
+  "speed": 88,
+  "type1": "ground",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126562"
+  },
+  "attack": 117,
+  "defense": 80,
+  "hp": 95,
+  "name": "Krookodile",
+  "pokedex_number": 553,
+  "speed": 92,
+  "type1": "ground",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126576"
+  },
+  "attack": 95,
+  "defense": 60,
+  "hp": 75,
+  "name": "Cinccino",
+  "pokedex_number": 573,
+  "speed": 115,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126578"
+  },
+  "attack": 45,
+  "defense": 70,
+  "hp": 60,
+  "name": "Gothorita",
+  "pokedex_number": 575,
+  "speed": 55,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212658a"
+  },
+  "attack": 60,
+  "defense": 70,
+  "hp": 100,
+  "name": "Jellicent",
+  "pokedex_number": 593,
+  "speed": 60,
+  "type1": "water",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212658f"
+  },
+  "attack": 94,
+  "defense": 131,
+  "hp": 74,
+  "name": "Ferrothorn",
+  "pokedex_number": 598,
+  "speed": 20,
+  "type1": "grass",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a7"
+  },
+  "attack": 74,
+  "defense": 50,
+  "hp": 59,
+  "name": "Golett",
+  "pokedex_number": 622,
+  "speed": 35,
+  "type1": "ground",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b5"
+  },
+  "attack": 85,
+  "defense": 55,
+  "hp": 55,
+  "name": "Larvesta",
+  "pokedex_number": 636,
+  "speed": 60,
+  "type1": "bug",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e9"
+  },
+  "attack": 52,
+  "defense": 67,
+  "hp": 42,
+  "name": "Binacle",
+  "pokedex_number": 688,
+  "speed": 50,
+  "type1": "rock",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f7"
+  },
+  "attack": 58,
+  "defense": 57,
+  "hp": 67,
+  "name": "Dedenne",
+  "pokedex_number": 702,
+  "speed": 101,
+  "type1": "electric",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265fe"
+  },
+  "attack": 110,
+  "defense": 76,
+  "hp": 85,
+  "name": "Trevenant",
+  "pokedex_number": 709,
+  "speed": 56,
+  "type1": "ghost",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212660f"
+  },
+  "attack": 85,
+  "defense": 50,
+  "hp": 65,
+  "name": "Torracat",
+  "pokedex_number": 726,
+  "speed": 90,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126635"
+  },
+  "attack": 52,
+  "defense": 90,
+  "hp": 51,
+  "name": "Comfey",
+  "pokedex_number": 764,
+  "speed": 100,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126656"
+  },
+  "attack": 101,
+  "defense": 103,
+  "hp": 97,
+  "name": "Celesteela",
+  "pokedex_number": 797,
+  "speed": 61,
+  "type1": "steel",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212635d"
+  },
+  "attack": 70,
+  "defense": 73,
+  "hp": 95,
+  "name": "Clefable",
+  "pokedex_number": 36,
+  "speed": 60,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212636b"
+  },
+  "attack": 55,
+  "defense": 30,
+  "hp": 10,
+  "name": "Diglett",
+  "pokedex_number": 50,
+  "speed": 90,
+  "type1": "ground",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126378"
+  },
+  "attack": 20,
+  "defense": 15,
+  "hp": 25,
+  "name": "Abra",
+  "pokedex_number": 63,
+  "speed": 90,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212637c"
+  },
+  "attack": 100,
+  "defense": 70,
+  "hp": 80,
+  "name": "Machoke",
+  "pokedex_number": 67,
+  "speed": 45,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212637f"
+  },
+  "attack": 90,
+  "defense": 50,
+  "hp": 65,
+  "name": "Weepinbell",
+  "pokedex_number": 70,
+  "speed": 55,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212638a"
+  },
+  "attack": 35,
+  "defense": 70,
+  "hp": 25,
+  "name": "Magnemite",
+  "pokedex_number": 81,
+  "speed": 45,
+  "type1": "electric",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b7"
+  },
+  "attack": 95,
+  "defense": 57,
+  "hp": 65,
+  "name": "Magmar",
+  "pokedex_number": 126,
+  "speed": 93,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263cf"
+  },
+  "attack": 150,
+  "defense": 70,
+  "hp": 106,
+  "name": "Mewtwo",
+  "pokedex_number": 150,
+  "speed": 140,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d3"
+  },
+  "attack": 82,
+  "defense": 100,
+  "hp": 80,
+  "name": "Meganium",
+  "pokedex_number": 154,
+  "speed": 80,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263de"
+  },
+  "attack": 20,
+  "defense": 30,
+  "hp": 40,
+  "name": "Ledyba",
+  "pokedex_number": 165,
+  "speed": 55,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263fa"
+  },
+  "attack": 65,
+  "defense": 45,
+  "hp": 65,
+  "name": "Yanma",
+  "pokedex_number": 193,
+  "speed": 95,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212640d"
+  },
+  "attack": 150,
+  "defense": 140,
+  "hp": 70,
+  "name": "Scizor",
+  "pokedex_number": 212,
+  "speed": 75,
+  "type1": "bug",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126417"
+  },
+  "attack": 55,
+  "defense": 95,
+  "hp": 65,
+  "name": "Corsola",
+  "pokedex_number": 222,
+  "speed": 35,
+  "type1": "water",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212641b"
+  },
+  "attack": 40,
+  "defense": 70,
+  "hp": 85,
+  "name": "Mantine",
+  "pokedex_number": 226,
+  "speed": 70,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212642a"
+  },
+  "attack": 80,
+  "defense": 105,
+  "hp": 95,
+  "name": "Miltank",
+  "pokedex_number": 241,
+  "speed": 100,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126445"
+  },
+  "attack": 35,
+  "defense": 55,
+  "hp": 50,
+  "name": "Cascoon",
+  "pokedex_number": 268,
+  "speed": 15,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126456"
+  },
+  "attack": 40,
+  "defense": 60,
+  "hp": 60,
+  "name": "Shroomish",
+  "pokedex_number": 285,
+  "speed": 35,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212645b"
+  },
+  "attack": 45,
+  "defense": 90,
+  "hp": 31,
+  "name": "Nincada",
+  "pokedex_number": 290,
+  "speed": 40,
+  "type1": "bug",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126460"
+  },
+  "attack": 91,
+  "defense": 63,
+  "hp": 104,
+  "name": "Exploud",
+  "pokedex_number": 295,
+  "speed": 68,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212649c"
+  },
+  "attack": 40,
+  "defense": 90,
+  "hp": 20,
+  "name": "Duskull",
+  "pokedex_number": 355,
+  "speed": 25,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a2"
+  },
+  "attack": 50,
+  "defense": 50,
+  "hp": 50,
+  "name": "Snorunt",
+  "pokedex_number": 361,
+  "speed": 50,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b1"
+  },
+  "attack": 145,
+  "defense": 150,
+  "hp": 80,
+  "name": "Metagross",
+  "pokedex_number": 376,
+  "speed": 110,
+  "type1": "steel",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e5"
+  },
+  "attack": 136,
+  "defense": 94,
+  "hp": 65,
+  "name": "Lopunny",
+  "pokedex_number": 428,
+  "speed": 135,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f8"
+  },
+  "attack": 70,
+  "defense": 40,
+  "hp": 40,
+  "name": "Riolu",
+  "pokedex_number": 447,
+  "speed": 60,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126500"
+  },
+  "attack": 100,
+  "defense": 72,
+  "hp": 74,
+  "name": "Carnivine",
+  "pokedex_number": 455,
+  "speed": 46,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126503"
+  },
+  "attack": 20,
+  "defense": 50,
+  "hp": 45,
+  "name": "Mantyke",
+  "pokedex_number": 458,
+  "speed": 50,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212650a"
+  },
+  "attack": 100,
+  "defense": 125,
+  "hp": 100,
+  "name": "Tangrowth",
+  "pokedex_number": 465,
+  "speed": 50,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212650e"
+  },
+  "attack": 76,
+  "defense": 86,
+  "hp": 86,
+  "name": "Yanmega",
+  "pokedex_number": 469,
+  "speed": 95,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212651a"
+  },
+  "attack": 105,
+  "defense": 105,
+  "hp": 80,
+  "name": "Mesprit",
+  "pokedex_number": 481,
+  "speed": 80,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212652f"
+  },
+  "attack": 75,
+  "defense": 60,
+  "hp": 75,
+  "name": "Dewott",
+  "pokedex_number": 502,
+  "speed": 60,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126535"
+  },
+  "attack": 110,
+  "defense": 90,
+  "hp": 85,
+  "name": "Stoutland",
+  "pokedex_number": 508,
+  "speed": 80,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126537"
+  },
+  "attack": 88,
+  "defense": 50,
+  "hp": 64,
+  "name": "Liepard",
+  "pokedex_number": 510,
+  "speed": 106,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126538"
+  },
+  "attack": 53,
+  "defense": 48,
+  "hp": 50,
+  "name": "Pansage",
+  "pokedex_number": 511,
+  "speed": 64,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212655a"
+  },
+  "attack": 100,
+  "defense": 89,
+  "hp": 60,
+  "name": "Scolipede",
+  "pokedex_number": 545,
+  "speed": 112,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212655b"
+  },
+  "attack": 27,
+  "defense": 60,
+  "hp": 40,
+  "name": "Cottonee",
+  "pokedex_number": 546,
+  "speed": 66,
+  "type1": "grass",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212656f"
+  },
+  "attack": 112,
+  "defense": 45,
+  "hp": 55,
+  "name": "Archen",
+  "pokedex_number": 566,
+  "speed": 70,
+  "type1": "rock",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126584"
+  },
+  "attack": 75,
+  "defense": 60,
+  "hp": 55,
+  "name": "Emolga",
+  "pokedex_number": 587,
+  "speed": 103,
+  "type1": "electric",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b0"
+  },
+  "attack": 97,
+  "defense": 66,
+  "hp": 85,
+  "name": "Heatmor",
+  "pokedex_number": 631,
+  "speed": 65,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265dc"
+  },
+  "attack": 124,
+  "defense": 78,
+  "hp": 95,
+  "name": "Pangoro",
+  "pokedex_number": 675,
+  "speed": 58,
+  "type1": "fighting",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265de"
+  },
+  "attack": 48,
+  "defense": 54,
+  "hp": 62,
+  "name": "Espurr",
+  "pokedex_number": 677,
+  "speed": 68,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f6"
+  },
+  "attack": 92,
+  "defense": 75,
+  "hp": 78,
+  "name": "Hawlucha",
+  "pokedex_number": 701,
+  "speed": 118,
+  "type1": "fighting",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126614"
+  },
+  "attack": 75,
+  "defense": 30,
+  "hp": 35,
+  "name": "Pikipek",
+  "pokedex_number": 731,
+  "speed": 65,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126616"
+  },
+  "attack": 120,
+  "defense": 75,
+  "hp": 80,
+  "name": "Toucannon",
+  "pokedex_number": 733,
+  "speed": 60,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212661c"
+  },
+  "attack": 82,
+  "defense": 57,
+  "hp": 47,
+  "name": "Crabrawler",
+  "pokedex_number": 739,
+  "speed": 63,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212635b"
+  },
+  "attack": 102,
+  "defense": 77,
+  "hp": 81,
+  "name": "Nidoking",
+  "pokedex_number": 34,
+  "speed": 85,
+  "type1": "poison",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126368"
+  },
+  "attack": 95,
+  "defense": 80,
+  "hp": 60,
+  "name": "Parasect",
+  "pokedex_number": 47,
+  "speed": 30,
+  "type1": "bug",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126372"
+  },
+  "attack": 105,
+  "defense": 60,
+  "hp": 65,
+  "name": "Primeape",
+  "pokedex_number": 57,
+  "speed": 95,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126396"
+  },
+  "attack": 50,
+  "defense": 45,
+  "hp": 45,
+  "name": "Haunter",
+  "pokedex_number": 93,
+  "speed": 95,
+  "type1": "ghost",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126397"
+  },
+  "attack": 65,
+  "defense": 80,
+  "hp": 60,
+  "name": "Gengar",
+  "pokedex_number": 94,
+  "speed": 130,
+  "type1": "ghost",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ab"
+  },
+  "attack": 55,
+  "defense": 115,
+  "hp": 65,
+  "name": "Tangela",
+  "pokedex_number": 114,
+  "speed": 60,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c1"
+  },
+  "attack": 130,
+  "defense": 60,
+  "hp": 65,
+  "name": "Flareon",
+  "pokedex_number": 136,
+  "speed": 65,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c9"
+  },
+  "attack": 85,
+  "defense": 100,
+  "hp": 90,
+  "name": "Articuno",
+  "pokedex_number": 144,
+  "speed": 85,
+  "type1": "ice",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263cc"
+  },
+  "attack": 64,
+  "defense": 45,
+  "hp": 41,
+  "name": "Dratini",
+  "pokedex_number": 147,
+  "speed": 50,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263dd"
+  },
+  "attack": 50,
+  "defense": 50,
+  "hp": 100,
+  "name": "Noctowl",
+  "pokedex_number": 164,
+  "speed": 70,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263eb"
+  },
+  "attack": 75,
+  "defense": 70,
+  "hp": 65,
+  "name": "Xatu",
+  "pokedex_number": 178,
+  "speed": 95,
+  "type1": "psychic",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ef"
+  },
+  "attack": 80,
+  "defense": 95,
+  "hp": 75,
+  "name": "Bellossom",
+  "pokedex_number": 182,
+  "speed": 50,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f0"
+  },
+  "attack": 20,
+  "defense": 50,
+  "hp": 70,
+  "name": "Marill",
+  "pokedex_number": 183,
+  "speed": 40,
+  "type1": "water",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126400"
+  },
+  "attack": 75,
+  "defense": 80,
+  "hp": 95,
+  "name": "Slowking",
+  "pokedex_number": 199,
+  "speed": 30,
+  "type1": "water",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212640f"
+  },
+  "attack": 185,
+  "defense": 115,
+  "hp": 80,
+  "name": "Heracross",
+  "pokedex_number": 214,
+  "speed": 75,
+  "type1": "bug",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126432"
+  },
+  "attack": 90,
+  "defense": 130,
+  "hp": 106,
+  "name": "Lugia",
+  "pokedex_number": 249,
+  "speed": 110,
+  "type1": "psychic",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126434"
+  },
+  "attack": 100,
+  "defense": 100,
+  "hp": 100,
+  "name": "Celebi",
+  "pokedex_number": 251,
+  "speed": 100,
+  "type1": "psychic",
+  "type2": "grass",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126435"
+  },
+  "attack": 45,
+  "defense": 35,
+  "hp": 40,
+  "name": "Treecko",
+  "pokedex_number": 252,
+  "speed": 70,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126441"
+  },
+  "attack": 70,
+  "defense": 61,
+  "hp": 78,
+  "name": "Linoone",
+  "pokedex_number": 264,
+  "speed": 100,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126454"
+  },
+  "attack": 30,
+  "defense": 32,
+  "hp": 40,
+  "name": "Surskit",
+  "pokedex_number": 283,
+  "speed": 65,
+  "type1": "bug",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126468"
+  },
+  "attack": 105,
+  "defense": 125,
+  "hp": 50,
+  "name": "Mawile",
+  "pokedex_number": 303,
+  "speed": 50,
+  "type1": "steel",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212646a"
+  },
+  "attack": 90,
+  "defense": 140,
+  "hp": 60,
+  "name": "Lairon",
+  "pokedex_number": 305,
+  "speed": 40,
+  "type1": "steel",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126471"
+  },
+  "attack": 40,
+  "defense": 50,
+  "hp": 60,
+  "name": "Minun",
+  "pokedex_number": 312,
+  "speed": 95,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126473"
+  },
+  "attack": 47,
+  "defense": 75,
+  "hp": 65,
+  "name": "Illumise",
+  "pokedex_number": 314,
+  "speed": 85,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212647a"
+  },
+  "attack": 90,
+  "defense": 45,
+  "hp": 170,
+  "name": "Wailord",
+  "pokedex_number": 321,
+  "speed": 60,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212648d"
+  },
+  "attack": 78,
+  "defense": 73,
+  "hp": 110,
+  "name": "Whiscash",
+  "pokedex_number": 340,
+  "speed": 60,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a3"
+  },
+  "attack": 120,
+  "defense": 80,
+  "hp": 80,
+  "name": "Glalie",
+  "pokedex_number": 362,
+  "speed": 100,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ab"
+  },
+  "attack": 30,
+  "defense": 55,
+  "hp": 43,
+  "name": "Luvdisc",
+  "pokedex_number": 370,
+  "speed": 97,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ad"
+  },
+  "attack": 95,
+  "defense": 100,
+  "hp": 65,
+  "name": "Shelgon",
+  "pokedex_number": 372,
+  "speed": 50,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ae"
+  },
+  "attack": 145,
+  "defense": 130,
+  "hp": 95,
+  "name": "Salamence",
+  "pokedex_number": 373,
+  "speed": 120,
+  "type1": "dragon",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264dc"
+  },
+  "attack": 105,
+  "defense": 55,
+  "hp": 85,
+  "name": "Floatzel",
+  "pokedex_number": 419,
+  "speed": 115,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f3"
+  },
+  "attack": 92,
+  "defense": 108,
+  "hp": 50,
+  "name": "Spiritomb",
+  "pokedex_number": 442,
+  "speed": 35,
+  "type1": "ghost",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212650b"
+  },
+  "attack": 123,
+  "defense": 67,
+  "hp": 75,
+  "name": "Electivire",
+  "pokedex_number": 466,
+  "speed": 95,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126527"
+  },
+  "attack": 100,
+  "defense": 100,
+  "hp": 100,
+  "name": "Victini",
+  "pokedex_number": 494,
+  "speed": 100,
+  "type1": "psychic",
+  "type2": "fire",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212652e"
+  },
+  "attack": 55,
+  "defense": 45,
+  "hp": 55,
+  "name": "Oshawott",
+  "pokedex_number": 501,
+  "speed": 45,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212653b"
+  },
+  "attack": 98,
+  "defense": 63,
+  "hp": 75,
+  "name": "Simisear",
+  "pokedex_number": 514,
+  "speed": 101,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126548"
+  },
+  "attack": 45,
+  "defense": 43,
+  "hp": 65,
+  "name": "Woobat",
+  "pokedex_number": 527,
+  "speed": 72,
+  "type1": "psychic",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126571"
+  },
+  "attack": 50,
+  "defense": 62,
+  "hp": 50,
+  "name": "Trubbish",
+  "pokedex_number": 568,
+  "speed": 65,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126573"
+  },
+  "attack": 65,
+  "defense": 40,
+  "hp": 40,
+  "name": "Zorua",
+  "pokedex_number": 570,
+  "speed": 65,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126592"
+  },
+  "attack": 100,
+  "defense": 115,
+  "hp": 60,
+  "name": "Klinklang",
+  "pokedex_number": 601,
+  "speed": 90,
+  "type1": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a2"
+  },
+  "attack": 70,
+  "defense": 40,
+  "hp": 80,
+  "name": "Accelgor",
+  "pokedex_number": 617,
+  "speed": 145,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ab"
+  },
+  "attack": 110,
+  "defense": 95,
+  "hp": 95,
+  "name": "Bouffalant",
+  "pokedex_number": 626,
+  "speed": 55,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b1"
+  },
+  "attack": 109,
+  "defense": 112,
+  "hp": 58,
+  "name": "Durant",
+  "pokedex_number": 632,
+  "speed": 109,
+  "type1": "bug",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c5"
+  },
+  "attack": 107,
+  "defense": 122,
+  "hp": 88,
+  "name": "Chesnaught",
+  "pokedex_number": 652,
+  "speed": 64,
+  "type1": "grass",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ca"
+  },
+  "attack": 63,
+  "defense": 52,
+  "hp": 54,
+  "name": "Frogadier",
+  "pokedex_number": 657,
+  "speed": 97,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265cf"
+  },
+  "attack": 73,
+  "defense": 55,
+  "hp": 62,
+  "name": "Fletchinder",
+  "pokedex_number": 662,
+  "speed": 84,
+  "type1": "fire",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d2"
+  },
+  "attack": 22,
+  "defense": 60,
+  "hp": 45,
+  "name": "Spewpa",
+  "pokedex_number": 665,
+  "speed": 29,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e7"
+  },
+  "attack": 54,
+  "defense": 53,
+  "hp": 53,
+  "name": "Inkay",
+  "pokedex_number": 686,
+  "speed": 45,
+  "type1": "dark",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ed"
+  },
+  "attack": 53,
+  "defense": 62,
+  "hp": 50,
+  "name": "Clauncher",
+  "pokedex_number": 692,
+  "speed": 44,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265fa"
+  },
+  "attack": 75,
+  "defense": 53,
+  "hp": 68,
+  "name": "Sliggoo",
+  "pokedex_number": 705,
+  "speed": 60,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126601"
+  },
+  "attack": 69,
+  "defense": 85,
+  "hp": 55,
+  "name": "Bergmite",
+  "pokedex_number": 712,
+  "speed": 28,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126604"
+  },
+  "attack": 70,
+  "defense": 80,
+  "hp": 85,
+  "name": "Noivern",
+  "pokedex_number": 715,
+  "speed": 123,
+  "type1": "flying",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126609"
+  },
+  "attack": 160,
+  "defense": 60,
+  "hp": 80,
+  "name": "Hoopa",
+  "pokedex_number": 720,
+  "speed": 80,
+  "type1": "psychic",
+  "type2": "ghost",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126655"
+  },
+  "attack": 89,
+  "defense": 71,
+  "hp": 83,
+  "name": "Xurkitree",
+  "pokedex_number": 796,
+  "speed": 83,
+  "type1": "electric",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212634b"
+  },
+  "attack": 80,
+  "defense": 80,
+  "hp": 83,
+  "name": "Pidgeot",
+  "pokedex_number": 18,
+  "speed": 121,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212634d"
+  },
+  "attack": 71,
+  "defense": 70,
+  "hp": 75,
+  "name": "Raticate",
+  "pokedex_number": 20,
+  "speed": 77,
+  "type1": "normal",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126370"
+  },
+  "attack": 82,
+  "defense": 78,
+  "hp": 80,
+  "name": "Golduck",
+  "pokedex_number": 55,
+  "speed": 85,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126375"
+  },
+  "attack": 50,
+  "defense": 40,
+  "hp": 40,
+  "name": "Poliwag",
+  "pokedex_number": 60,
+  "speed": 90,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126382"
+  },
+  "attack": 70,
+  "defense": 65,
+  "hp": 80,
+  "name": "Tentacruel",
+  "pokedex_number": 73,
+  "speed": 100,
+  "type1": "water",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126392"
+  },
+  "attack": 105,
+  "defense": 75,
+  "hp": 105,
+  "name": "Muk",
+  "pokedex_number": 89,
+  "speed": 50,
+  "type1": "poison",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126394"
+  },
+  "attack": 95,
+  "defense": 180,
+  "hp": 50,
+  "name": "Cloyster",
+  "pokedex_number": 91,
+  "speed": 70,
+  "type1": "water",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126398"
+  },
+  "attack": 45,
+  "defense": 160,
+  "hp": 35,
+  "name": "Onix",
+  "pokedex_number": 95,
+  "speed": 70,
+  "type1": "rock",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a7"
+  },
+  "attack": 90,
+  "defense": 120,
+  "hp": 65,
+  "name": "Weezing",
+  "pokedex_number": 110,
+  "speed": 60,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a9"
+  },
+  "attack": 130,
+  "defense": 120,
+  "hp": 105,
+  "name": "Rhydon",
+  "pokedex_number": 112,
+  "speed": 40,
+  "type1": "ground",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263af"
+  },
+  "attack": 67,
+  "defense": 60,
+  "hp": 45,
+  "name": "Goldeen",
+  "pokedex_number": 118,
+  "speed": 63,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b8"
+  },
+  "attack": 155,
+  "defense": 120,
+  "hp": 65,
+  "name": "Pinsir",
+  "pokedex_number": 127,
+  "speed": 105,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263bd"
+  },
+  "attack": 48,
+  "defense": 48,
+  "hp": 48,
+  "name": "Ditto",
+  "pokedex_number": 132,
+  "speed": 48,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e4"
+  },
+  "attack": 58,
+  "defense": 58,
+  "hp": 125,
+  "name": "Lanturn",
+  "pokedex_number": 171,
+  "speed": 67,
+  "type1": "water",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f7"
+  },
+  "attack": 70,
+  "defense": 55,
+  "hp": 55,
+  "name": "Aipom",
+  "pokedex_number": 190,
+  "speed": 85,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126423"
+  },
+  "attack": 95,
+  "defense": 62,
+  "hp": 73,
+  "name": "Stantler",
+  "pokedex_number": 234,
+  "speed": 85,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212646c"
+  },
+  "attack": 40,
+  "defense": 55,
+  "hp": 30,
+  "name": "Meditite",
+  "pokedex_number": 307,
+  "speed": 60,
+  "type1": "fighting",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126470"
+  },
+  "attack": 50,
+  "defense": 40,
+  "hp": 60,
+  "name": "Plusle",
+  "pokedex_number": 311,
+  "speed": 95,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212647c"
+  },
+  "attack": 120,
+  "defense": 100,
+  "hp": 70,
+  "name": "Camerupt",
+  "pokedex_number": 323,
+  "speed": 20,
+  "type1": "fire",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212648c"
+  },
+  "attack": 48,
+  "defense": 43,
+  "hp": 50,
+  "name": "Barboach",
+  "pokedex_number": 339,
+  "speed": 60,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212648f"
+  },
+  "attack": 120,
+  "defense": 85,
+  "hp": 63,
+  "name": "Crawdaunt",
+  "pokedex_number": 342,
+  "speed": 55,
+  "type1": "water",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126492"
+  },
+  "attack": 41,
+  "defense": 77,
+  "hp": 66,
+  "name": "Lileep",
+  "pokedex_number": 345,
+  "speed": 23,
+  "type1": "rock",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126497"
+  },
+  "attack": 60,
+  "defense": 79,
+  "hp": 95,
+  "name": "Milotic",
+  "pokedex_number": 350,
+  "speed": 81,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264cf"
+  },
+  "attack": 30,
+  "defense": 35,
+  "hp": 40,
+  "name": "Budew",
+  "pokedex_number": 406,
+  "speed": 55,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e6"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 60,
+  "name": "Mismagius",
+  "pokedex_number": 429,
+  "speed": 105,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f1"
+  },
+  "attack": 5,
+  "defense": 5,
+  "hp": 100,
+  "name": "Happiny",
+  "pokedex_number": 440,
+  "speed": 30,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126513"
+  },
+  "attack": 80,
+  "defense": 70,
+  "hp": 85,
+  "name": "Porygon-Z",
+  "pokedex_number": 474,
+  "speed": 90,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212651f"
+  },
+  "attack": 160,
+  "defense": 110,
+  "hp": 110,
+  "name": "Regigigas",
+  "pokedex_number": 486,
+  "speed": 100,
+  "type1": "normal",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212652b"
+  },
+  "attack": 63,
+  "defense": 45,
+  "hp": 65,
+  "name": "Tepig",
+  "pokedex_number": 498,
+  "speed": 45,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212653a"
+  },
+  "attack": 53,
+  "defense": 48,
+  "hp": 50,
+  "name": "Pansear",
+  "pokedex_number": 513,
+  "speed": 64,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126546"
+  },
+  "attack": 105,
+  "defense": 105,
+  "hp": 70,
+  "name": "Boldore",
+  "pokedex_number": 525,
+  "speed": 20,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126547"
+  },
+  "attack": 135,
+  "defense": 130,
+  "hp": 85,
+  "name": "Gigalith",
+  "pokedex_number": 526,
+  "speed": 25,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212656c"
+  },
+  "attack": 50,
+  "defense": 145,
+  "hp": 58,
+  "name": "Cofagrigus",
+  "pokedex_number": 563,
+  "speed": 30,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126572"
+  },
+  "attack": 95,
+  "defense": 82,
+  "hp": 80,
+  "name": "Garbodor",
+  "pokedex_number": 569,
+  "speed": 75,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212658b"
+  },
+  "attack": 75,
+  "defense": 80,
+  "hp": 165,
+  "name": "Alomomola",
+  "pokedex_number": 594,
+  "speed": 65,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126590"
+  },
+  "attack": 55,
+  "defense": 70,
+  "hp": 40,
+  "name": "Klink",
+  "pokedex_number": 599,
+  "speed": 30,
+  "type1": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126595"
+  },
+  "attack": 115,
+  "defense": 80,
+  "hp": 85,
+  "name": "Eelektross",
+  "pokedex_number": 604,
+  "speed": 50,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265aa"
+  },
+  "attack": 125,
+  "defense": 100,
+  "hp": 65,
+  "name": "Bisharp",
+  "pokedex_number": 625,
+  "speed": 70,
+  "type1": "dark",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b3"
+  },
+  "attack": 85,
+  "defense": 70,
+  "hp": 72,
+  "name": "Zweilous",
+  "pokedex_number": 634,
+  "speed": 58,
+  "type1": "dark",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265bd"
+  },
+  "attack": 150,
+  "defense": 120,
+  "hp": 100,
+  "name": "Zekrom",
+  "pokedex_number": 644,
+  "speed": 90,
+  "type1": "dragon",
+  "type2": "electric",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265df"
+  },
+  "attack": 48,
+  "defense": 76,
+  "hp": 74,
+  "name": "Meowstic",
+  "pokedex_number": 678,
+  "speed": 104,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e3"
+  },
+  "attack": 52,
+  "defense": 60,
+  "hp": 78,
+  "name": "Spritzee",
+  "pokedex_number": 682,
+  "speed": 23,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f4"
+  },
+  "attack": 77,
+  "defense": 72,
+  "hp": 123,
+  "name": "Aurorus",
+  "pokedex_number": 699,
+  "speed": 58,
+  "type1": "rock",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126615"
+  },
+  "attack": 85,
+  "defense": 50,
+  "hp": 55,
+  "name": "Trumbeak",
+  "pokedex_number": 732,
+  "speed": 75,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212661a"
+  },
+  "attack": 82,
+  "defense": 95,
+  "hp": 57,
+  "name": "Charjabug",
+  "pokedex_number": 737,
+  "speed": 36,
+  "type1": "bug",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126630"
+  },
+  "attack": 75,
+  "defense": 50,
+  "hp": 70,
+  "name": "Stufful",
+  "pokedex_number": 759,
+  "speed": 50,
+  "type1": "normal",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126639"
+  },
+  "attack": 125,
+  "defense": 140,
+  "hp": 75,
+  "name": "Golisopod",
+  "pokedex_number": 768,
+  "speed": 40,
+  "type1": "bug",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212663b"
+  },
+  "attack": 75,
+  "defense": 110,
+  "hp": 85,
+  "name": "Palossand",
+  "pokedex_number": 770,
+  "speed": 35,
+  "type1": "ghost",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126645"
+  },
+  "attack": 60,
+  "defense": 85,
+  "hp": 78,
+  "name": "Drampa",
+  "pokedex_number": 780,
+  "speed": 36,
+  "type1": "normal",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126650"
+  },
+  "attack": 137,
+  "defense": 107,
+  "hp": 137,
+  "name": "Solgaleo",
+  "pokedex_number": 791,
+  "speed": 97,
+  "type1": "psychic",
+  "type2": "steel",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212665a"
+  },
+  "attack": 95,
+  "defense": 115,
+  "hp": 80,
+  "name": "Magearna",
+  "pokedex_number": 801,
+  "speed": 65,
+  "type1": "steel",
+  "type2": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126343"
+  },
+  "attack": 30,
+  "defense": 35,
+  "hp": 45,
+  "name": "Caterpie",
+  "pokedex_number": 10,
+  "speed": 45,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126352"
+  },
+  "attack": 55,
+  "defense": 40,
+  "hp": 35,
+  "name": "Pikachu",
+  "pokedex_number": 25,
+  "speed": 90,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126365"
+  },
+  "attack": 65,
+  "defense": 70,
+  "hp": 60,
+  "name": "Gloom",
+  "pokedex_number": 44,
+  "speed": 40,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126376"
+  },
+  "attack": 65,
+  "defense": 65,
+  "hp": 65,
+  "name": "Poliwhirl",
+  "pokedex_number": 61,
+  "speed": 90,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212637e"
+  },
+  "attack": 75,
+  "defense": 35,
+  "hp": 50,
+  "name": "Bellsprout",
+  "pokedex_number": 69,
+  "speed": 40,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a0"
+  },
+  "attack": 105,
+  "defense": 85,
+  "hp": 95,
+  "name": "Exeggutor",
+  "pokedex_number": 103,
+  "speed": 45,
+  "type1": "grass",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a8"
+  },
+  "attack": 85,
+  "defense": 95,
+  "hp": 80,
+  "name": "Rhyhorn",
+  "pokedex_number": 111,
+  "speed": 25,
+  "type1": "ground",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b0"
+  },
+  "attack": 92,
+  "defense": 65,
+  "hp": 80,
+  "name": "Seaking",
+  "pokedex_number": 119,
+  "speed": 68,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b1"
+  },
+  "attack": 45,
+  "defense": 55,
+  "hp": 30,
+  "name": "Staryu",
+  "pokedex_number": 120,
+  "speed": 85,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b4"
+  },
+  "attack": 110,
+  "defense": 80,
+  "hp": 70,
+  "name": "Scyther",
+  "pokedex_number": 123,
+  "speed": 105,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263bb"
+  },
+  "attack": 155,
+  "defense": 109,
+  "hp": 95,
+  "name": "Gyarados",
+  "pokedex_number": 130,
+  "speed": 81,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d5"
+  },
+  "attack": 64,
+  "defense": 58,
+  "hp": 58,
+  "name": "Quilava",
+  "pokedex_number": 156,
+  "speed": 80,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e0"
+  },
+  "attack": 60,
+  "defense": 40,
+  "hp": 40,
+  "name": "Spinarak",
+  "pokedex_number": 167,
+  "speed": 30,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e1"
+  },
+  "attack": 90,
+  "defense": 70,
+  "hp": 70,
+  "name": "Ariados",
+  "pokedex_number": 168,
+  "speed": 40,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ee"
+  },
+  "attack": 95,
+  "defense": 105,
+  "hp": 90,
+  "name": "Ampharos",
+  "pokedex_number": 181,
+  "speed": 45,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212640b"
+  },
+  "attack": 120,
+  "defense": 75,
+  "hp": 90,
+  "name": "Granbull",
+  "pokedex_number": 210,
+  "speed": 45,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212640c"
+  },
+  "attack": 95,
+  "defense": 85,
+  "hp": 65,
+  "name": "Qwilfish",
+  "pokedex_number": 211,
+  "speed": 85,
+  "type1": "water",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126411"
+  },
+  "attack": 80,
+  "defense": 50,
+  "hp": 60,
+  "name": "Teddiursa",
+  "pokedex_number": 216,
+  "speed": 40,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126421"
+  },
+  "attack": 120,
+  "defense": 120,
+  "hp": 90,
+  "name": "Donphan",
+  "pokedex_number": 232,
+  "speed": 50,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212645d"
+  },
+  "attack": 90,
+  "defense": 45,
+  "hp": 1,
+  "name": "Shedinja",
+  "pokedex_number": 292,
+  "speed": 40,
+  "type1": "bug",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126467"
+  },
+  "attack": 85,
+  "defense": 125,
+  "hp": 50,
+  "name": "Sableye",
+  "pokedex_number": 302,
+  "speed": 20,
+  "type1": "dark",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212646d"
+  },
+  "attack": 100,
+  "defense": 85,
+  "hp": 60,
+  "name": "Medicham",
+  "pokedex_number": 308,
+  "speed": 100,
+  "type1": "fighting",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212647d"
+  },
+  "attack": 85,
+  "defense": 140,
+  "hp": 70,
+  "name": "Torkoal",
+  "pokedex_number": 324,
+  "speed": 20,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212648b"
+  },
+  "attack": 95,
+  "defense": 85,
+  "hp": 90,
+  "name": "Solrock",
+  "pokedex_number": 338,
+  "speed": 70,
+  "type1": "rock",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b2"
+  },
+  "attack": 100,
+  "defense": 200,
+  "hp": 80,
+  "name": "Regirock",
+  "pokedex_number": 377,
+  "speed": 50,
+  "type1": "rock",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b5"
+  },
+  "attack": 100,
+  "defense": 120,
+  "hp": 80,
+  "name": "Latias",
+  "pokedex_number": 380,
+  "speed": 110,
+  "type1": "dragon",
+  "type2": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d5"
+  },
+  "attack": 29,
+  "defense": 45,
+  "hp": 40,
+  "name": "Burmy",
+  "pokedex_number": 412,
+  "speed": 36,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e0"
+  },
+  "attack": 83,
+  "defense": 68,
+  "hp": 111,
+  "name": "Gastrodon",
+  "pokedex_number": 423,
+  "speed": 39,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e3"
+  },
+  "attack": 80,
+  "defense": 44,
+  "hp": 150,
+  "name": "Drifblim",
+  "pokedex_number": 426,
+  "speed": 80,
+  "type1": "ghost",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264eb"
+  },
+  "attack": 63,
+  "defense": 47,
+  "hp": 63,
+  "name": "Stunky",
+  "pokedex_number": 434,
+  "speed": 74,
+  "type1": "poison",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ee"
+  },
+  "attack": 89,
+  "defense": 116,
+  "hp": 67,
+  "name": "Bronzong",
+  "pokedex_number": 437,
+  "speed": 33,
+  "type1": "steel",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264fc"
+  },
+  "attack": 50,
+  "defense": 90,
+  "hp": 40,
+  "name": "Skorupi",
+  "pokedex_number": 451,
+  "speed": 65,
+  "type1": "poison",
+  "type2": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212651d"
+  },
+  "attack": 120,
+  "defense": 100,
+  "hp": 90,
+  "name": "Palkia",
+  "pokedex_number": 484,
+  "speed": 100,
+  "type1": "water",
+  "type2": "dragon",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126523"
+  },
+  "attack": 100,
+  "defense": 100,
+  "hp": 100,
+  "name": "Manaphy",
+  "pokedex_number": 490,
+  "speed": 100,
+  "type1": "water",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126539"
+  },
+  "attack": 98,
+  "defense": 63,
+  "hp": 75,
+  "name": "Simisage",
+  "pokedex_number": 512,
+  "speed": 101,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212654d"
+  },
+  "attack": 80,
+  "defense": 55,
+  "hp": 75,
+  "name": "Timburr",
+  "pokedex_number": 532,
+  "speed": 35,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212655c"
+  },
+  "attack": 67,
+  "defense": 85,
+  "hp": 60,
+  "name": "Whimsicott",
+  "pokedex_number": 547,
+  "speed": 116,
+  "type1": "grass",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212655f"
+  },
+  "attack": 92,
+  "defense": 65,
+  "hp": 70,
+  "name": "Basculin",
+  "pokedex_number": 550,
+  "speed": 98,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126560"
+  },
+  "attack": 72,
+  "defense": 35,
+  "hp": 50,
+  "name": "Sandile",
+  "pokedex_number": 551,
+  "speed": 65,
+  "type1": "ground",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126564"
+  },
+  "attack": 30,
+  "defense": 105,
+  "hp": 105,
+  "name": "Darmanitan",
+  "pokedex_number": 555,
+  "speed": 55,
+  "type1": "fire",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126566"
+  },
+  "attack": 65,
+  "defense": 85,
+  "hp": 50,
+  "name": "Dwebble",
+  "pokedex_number": 557,
+  "speed": 55,
+  "type1": "bug",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126577"
+  },
+  "attack": 30,
+  "defense": 50,
+  "hp": 45,
+  "name": "Gothita",
+  "pokedex_number": 574,
+  "speed": 45,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212658e"
+  },
+  "attack": 50,
+  "defense": 91,
+  "hp": 44,
+  "name": "Ferroseed",
+  "pokedex_number": 597,
+  "speed": 10,
+  "type1": "grass",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126591"
+  },
+  "attack": 80,
+  "defense": 95,
+  "hp": 60,
+  "name": "Klang",
+  "pokedex_number": 600,
+  "speed": 50,
+  "type1": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126593"
+  },
+  "attack": 55,
+  "defense": 40,
+  "hp": 35,
+  "name": "Tynamo",
+  "pokedex_number": 602,
+  "speed": 60,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212659d"
+  },
+  "attack": 147,
+  "defense": 90,
+  "hp": 76,
+  "name": "Haxorus",
+  "pokedex_number": 612,
+  "speed": 97,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a3"
+  },
+  "attack": 66,
+  "defense": 84,
+  "hp": 109,
+  "name": "Stunfisk",
+  "pokedex_number": 618,
+  "speed": 32,
+  "type1": "ground",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a5"
+  },
+  "attack": 125,
+  "defense": 60,
+  "hp": 65,
+  "name": "Mienshao",
+  "pokedex_number": 620,
+  "speed": 105,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b7"
+  },
+  "attack": 90,
+  "defense": 129,
+  "hp": 91,
+  "name": "Cobalion",
+  "pokedex_number": 638,
+  "speed": 108,
+  "type1": "steel",
+  "type2": "fighting",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d1"
+  },
+  "attack": 35,
+  "defense": 40,
+  "hp": 38,
+  "name": "Scatterbug",
+  "pokedex_number": 664,
+  "speed": 35,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265fc"
+  },
+  "attack": 80,
+  "defense": 91,
+  "hp": 57,
+  "name": "Klefki",
+  "pokedex_number": 707,
+  "speed": 75,
+  "type1": "steel",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126613"
+  },
+  "attack": 74,
+  "defense": 74,
+  "hp": 80,
+  "name": "Primarina",
+  "pokedex_number": 730,
+  "speed": 60,
+  "type1": "water",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126621"
+  },
+  "attack": 65,
+  "defense": 40,
+  "hp": 45,
+  "name": "Rockruff",
+  "pokedex_number": 744,
+  "speed": 60,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126628"
+  },
+  "attack": 40,
+  "defense": 52,
+  "hp": 38,
+  "name": "Dewpider",
+  "pokedex_number": 751,
+  "speed": 27,
+  "type1": "water",
+  "type2": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212662b"
+  },
+  "attack": 105,
+  "defense": 90,
+  "hp": 70,
+  "name": "Lurantis",
+  "pokedex_number": 754,
+  "speed": 45,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212662f"
+  },
+  "attack": 64,
+  "defense": 60,
+  "hp": 68,
+  "name": "Salazzle",
+  "pokedex_number": 758,
+  "speed": 117,
+  "type1": "poison",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126637"
+  },
+  "attack": 120,
+  "defense": 90,
+  "hp": 100,
+  "name": "Passimian",
+  "pokedex_number": 766,
+  "speed": 80,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212663a"
+  },
+  "attack": 55,
+  "defense": 80,
+  "hp": 55,
+  "name": "Sandygast",
+  "pokedex_number": 769,
+  "speed": 15,
+  "type1": "ghost",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126641"
+  },
+  "attack": 78,
+  "defense": 135,
+  "hp": 60,
+  "name": "Turtonator",
+  "pokedex_number": 776,
+  "speed": 36,
+  "type1": "fire",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126340"
+  },
+  "attack": 48,
+  "defense": 65,
+  "hp": 44,
+  "name": "Squirtle",
+  "pokedex_number": 7,
+  "speed": 43,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126344"
+  },
+  "attack": 20,
+  "defense": 55,
+  "hp": 50,
+  "name": "Metapod",
+  "pokedex_number": 11,
+  "speed": 30,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212634e"
+  },
+  "attack": 60,
+  "defense": 30,
+  "hp": 40,
+  "name": "Spearow",
+  "pokedex_number": 21,
+  "speed": 70,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126350"
+  },
+  "attack": 60,
+  "defense": 44,
+  "hp": 35,
+  "name": "Ekans",
+  "pokedex_number": 23,
+  "speed": 55,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126357"
+  },
+  "attack": 62,
+  "defense": 67,
+  "hp": 70,
+  "name": "Nidorina",
+  "pokedex_number": 30,
+  "speed": 56,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126385"
+  },
+  "attack": 120,
+  "defense": 130,
+  "hp": 80,
+  "name": "Golem",
+  "pokedex_number": 76,
+  "speed": 45,
+  "type1": "rock",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212638f"
+  },
+  "attack": 45,
+  "defense": 55,
+  "hp": 65,
+  "name": "Seel",
+  "pokedex_number": 86,
+  "speed": 45,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212639a"
+  },
+  "attack": 73,
+  "defense": 70,
+  "hp": 85,
+  "name": "Hypno",
+  "pokedex_number": 97,
+  "speed": 67,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a2"
+  },
+  "attack": 80,
+  "defense": 110,
+  "hp": 60,
+  "name": "Marowak",
+  "pokedex_number": 105,
+  "speed": 45,
+  "type1": "ground",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a6"
+  },
+  "attack": 65,
+  "defense": 95,
+  "hp": 40,
+  "name": "Koffing",
+  "pokedex_number": 109,
+  "speed": 35,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d8"
+  },
+  "attack": 80,
+  "defense": 80,
+  "hp": 65,
+  "name": "Croconaw",
+  "pokedex_number": 159,
+  "speed": 58,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263df"
+  },
+  "attack": 35,
+  "defense": 50,
+  "hp": 55,
+  "name": "Ledian",
+  "pokedex_number": 166,
+  "speed": 85,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f4"
+  },
+  "attack": 35,
+  "defense": 40,
+  "hp": 35,
+  "name": "Hoppip",
+  "pokedex_number": 187,
+  "speed": 50,
+  "type1": "grass",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126409"
+  },
+  "attack": 125,
+  "defense": 230,
+  "hp": 75,
+  "name": "Steelix",
+  "pokedex_number": 208,
+  "speed": 30,
+  "type1": "steel",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126414"
+  },
+  "attack": 50,
+  "defense": 120,
+  "hp": 60,
+  "name": "Magcargo",
+  "pokedex_number": 219,
+  "speed": 30,
+  "type1": "fire",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212642f"
+  },
+  "attack": 64,
+  "defense": 50,
+  "hp": 50,
+  "name": "Larvitar",
+  "pokedex_number": 246,
+  "speed": 41,
+  "type1": "rock",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126442"
+  },
+  "attack": 45,
+  "defense": 35,
+  "hp": 45,
+  "name": "Wurmple",
+  "pokedex_number": 265,
+  "speed": 20,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126449"
+  },
+  "attack": 70,
+  "defense": 70,
+  "hp": 80,
+  "name": "Ludicolo",
+  "pokedex_number": 272,
+  "speed": 70,
+  "type1": "water",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212644b"
+  },
+  "attack": 70,
+  "defense": 40,
+  "hp": 70,
+  "name": "Nuzleaf",
+  "pokedex_number": 274,
+  "speed": 60,
+  "type1": "grass",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126458"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 60,
+  "name": "Slakoth",
+  "pokedex_number": 287,
+  "speed": 30,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126475"
+  },
+  "attack": 43,
+  "defense": 53,
+  "hp": 70,
+  "name": "Gulpin",
+  "pokedex_number": 316,
+  "speed": 40,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126495"
+  },
+  "attack": 125,
+  "defense": 100,
+  "hp": 75,
+  "name": "Armaldo",
+  "pokedex_number": 348,
+  "speed": 45,
+  "type1": "rock",
+  "type2": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212649d"
+  },
+  "attack": 70,
+  "defense": 130,
+  "hp": 40,
+  "name": "Dusclops",
+  "pokedex_number": 356,
+  "speed": 25,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a4"
+  },
+  "attack": 40,
+  "defense": 50,
+  "hp": 70,
+  "name": "Spheal",
+  "pokedex_number": 363,
+  "speed": 25,
+  "type1": "ice",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ba"
+  },
+  "attack": 100,
+  "defense": 100,
+  "hp": 100,
+  "name": "Jirachi",
+  "pokedex_number": 385,
+  "speed": 100,
+  "type1": "steel",
+  "type2": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264cc"
+  },
+  "attack": 65,
+  "defense": 34,
+  "hp": 45,
+  "name": "Shinx",
+  "pokedex_number": 403,
+  "speed": 45,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264de"
+  },
+  "attack": 60,
+  "defense": 70,
+  "hp": 70,
+  "name": "Cherrim",
+  "pokedex_number": 421,
+  "speed": 85,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e8"
+  },
+  "attack": 55,
+  "defense": 42,
+  "hp": 49,
+  "name": "Glameow",
+  "pokedex_number": 431,
+  "speed": 85,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ef"
+  },
+  "attack": 80,
+  "defense": 95,
+  "hp": 50,
+  "name": "Bonsly",
+  "pokedex_number": 438,
+  "speed": 10,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f7"
+  },
+  "attack": 85,
+  "defense": 40,
+  "hp": 135,
+  "name": "Munchlax",
+  "pokedex_number": 446,
+  "speed": 5,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264fe"
+  },
+  "attack": 61,
+  "defense": 40,
+  "hp": 48,
+  "name": "Croagunk",
+  "pokedex_number": 453,
+  "speed": 50,
+  "type1": "poison",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126510"
+  },
+  "attack": 60,
+  "defense": 110,
+  "hp": 65,
+  "name": "Glaceon",
+  "pokedex_number": 471,
+  "speed": 65,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126529"
+  },
+  "attack": 60,
+  "defense": 75,
+  "hp": 60,
+  "name": "Servine",
+  "pokedex_number": 496,
+  "speed": 83,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126557"
+  },
+  "attack": 103,
+  "defense": 80,
+  "hp": 75,
+  "name": "Leavanny",
+  "pokedex_number": 542,
+  "speed": 92,
+  "type1": "bug",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126567"
+  },
+  "attack": 105,
+  "defense": 125,
+  "hp": 70,
+  "name": "Crustle",
+  "pokedex_number": 558,
+  "speed": 45,
+  "type1": "bug",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126568"
+  },
+  "attack": 75,
+  "defense": 70,
+  "hp": 50,
+  "name": "Scraggy",
+  "pokedex_number": 559,
+  "speed": 48,
+  "type1": "dark",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212656b"
+  },
+  "attack": 30,
+  "defense": 85,
+  "hp": 38,
+  "name": "Yamask",
+  "pokedex_number": 562,
+  "speed": 30,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212656e"
+  },
+  "attack": 108,
+  "defense": 133,
+  "hp": 74,
+  "name": "Carracosta",
+  "pokedex_number": 565,
+  "speed": 32,
+  "type1": "water",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212659c"
+  },
+  "attack": 117,
+  "defense": 70,
+  "hp": 66,
+  "name": "Fraxure",
+  "pokedex_number": 611,
+  "speed": 67,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a0"
+  },
+  "attack": 50,
+  "defense": 50,
+  "hp": 80,
+  "name": "Cryogonal",
+  "pokedex_number": 615,
+  "speed": 105,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b9"
+  },
+  "attack": 90,
+  "defense": 72,
+  "hp": 91,
+  "name": "Virizion",
+  "pokedex_number": 640,
+  "speed": 108,
+  "type1": "grass",
+  "type2": "fighting",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265bc"
+  },
+  "attack": 120,
+  "defense": 100,
+  "hp": 100,
+  "name": "Reshiram",
+  "pokedex_number": 643,
+  "speed": 90,
+  "type1": "dragon",
+  "type2": "fire",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c7"
+  },
+  "attack": 59,
+  "defense": 58,
+  "hp": 59,
+  "name": "Braixen",
+  "pokedex_number": 654,
+  "speed": 73,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d3"
+  },
+  "attack": 52,
+  "defense": 50,
+  "hp": 80,
+  "name": "Vivillon",
+  "pokedex_number": 666,
+  "speed": 89,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f3"
+  },
+  "attack": 59,
+  "defense": 50,
+  "hp": 77,
+  "name": "Amaura",
+  "pokedex_number": 698,
+  "speed": 46,
+  "type1": "rock",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126602"
+  },
+  "attack": 117,
+  "defense": 184,
+  "hp": 95,
+  "name": "Avalugg",
+  "pokedex_number": 713,
+  "speed": 28,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126605"
+  },
+  "attack": 131,
+  "defense": 95,
+  "hp": 126,
+  "name": "Xerneas",
+  "pokedex_number": 716,
+  "speed": 99,
+  "type1": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212660e"
+  },
+  "attack": 65,
+  "defense": 40,
+  "hp": 45,
+  "name": "Litten",
+  "pokedex_number": 725,
+  "speed": 70,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212661e"
+  },
+  "attack": 70,
+  "defense": 70,
+  "hp": 75,
+  "name": "Oricorio",
+  "pokedex_number": 741,
+  "speed": 93,
+  "type1": "fire",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126634"
+  },
+  "attack": 120,
+  "defense": 98,
+  "hp": 72,
+  "name": "Tsareena",
+  "pokedex_number": 763,
+  "speed": 72,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126642"
+  },
+  "attack": 98,
+  "defense": 63,
+  "hp": 65,
+  "name": "Togedemaru",
+  "pokedex_number": 777,
+  "speed": 96,
+  "type1": "electric",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212633e"
+  },
+  "attack": 64,
+  "defense": 58,
+  "hp": 58,
+  "name": "Charmeleon",
+  "pokedex_number": 5,
+  "speed": 80,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126355"
+  },
+  "attack": 100,
+  "defense": 120,
+  "hp": 75,
+  "name": "Sandslash",
+  "pokedex_number": 28,
+  "speed": 65,
+  "type1": "ground",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212636c"
+  },
+  "attack": 100,
+  "defense": 60,
+  "hp": 35,
+  "name": "Dugtrio",
+  "pokedex_number": 51,
+  "speed": 110,
+  "type1": "ground",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126373"
+  },
+  "attack": 70,
+  "defense": 45,
+  "hp": 55,
+  "name": "Growlithe",
+  "pokedex_number": 58,
+  "speed": 60,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126383"
+  },
+  "attack": 80,
+  "defense": 100,
+  "hp": 40,
+  "name": "Geodude",
+  "pokedex_number": 74,
+  "speed": 20,
+  "type1": "rock",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212638d"
+  },
+  "attack": 85,
+  "defense": 45,
+  "hp": 35,
+  "name": "Doduo",
+  "pokedex_number": 84,
+  "speed": 75,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212639c"
+  },
+  "attack": 130,
+  "defense": 115,
+  "hp": 55,
+  "name": "Kingler",
+  "pokedex_number": 99,
+  "speed": 75,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212639f"
+  },
+  "attack": 40,
+  "defense": 80,
+  "hp": 60,
+  "name": "Exeggcute",
+  "pokedex_number": 102,
+  "speed": 40,
+  "type1": "grass",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263aa"
+  },
+  "attack": 5,
+  "defense": 5,
+  "hp": 250,
+  "name": "Chansey",
+  "pokedex_number": 113,
+  "speed": 50,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263bf"
+  },
+  "attack": 65,
+  "defense": 60,
+  "hp": 130,
+  "name": "Vaporeon",
+  "pokedex_number": 134,
+  "speed": 65,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f1"
+  },
+  "attack": 50,
+  "defense": 80,
+  "hp": 100,
+  "name": "Azumarill",
+  "pokedex_number": 184,
+  "speed": 50,
+  "type1": "water",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126412"
+  },
+  "attack": 130,
+  "defense": 75,
+  "hp": 90,
+  "name": "Ursaring",
+  "pokedex_number": 217,
+  "speed": 55,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212642c"
+  },
+  "attack": 85,
+  "defense": 75,
+  "hp": 90,
+  "name": "Raikou",
+  "pokedex_number": 243,
+  "speed": 115,
+  "type1": "electric",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126446"
+  },
+  "attack": 50,
+  "defense": 70,
+  "hp": 60,
+  "name": "Dustox",
+  "pokedex_number": 269,
+  "speed": 65,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126453"
+  },
+  "attack": 85,
+  "defense": 65,
+  "hp": 68,
+  "name": "Gardevoir",
+  "pokedex_number": 282,
+  "speed": 100,
+  "type1": "psychic",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126498"
+  },
+  "attack": 70,
+  "defense": 70,
+  "hp": 70,
+  "name": "Castform",
+  "pokedex_number": 351,
+  "speed": 70,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ac"
+  },
+  "attack": 75,
+  "defense": 60,
+  "hp": 45,
+  "name": "Bagon",
+  "pokedex_number": 371,
+  "speed": 50,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b3"
+  },
+  "attack": 50,
+  "defense": 100,
+  "hp": 80,
+  "name": "Regice",
+  "pokedex_number": 378,
+  "speed": 50,
+  "type1": "ice",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d1"
+  },
+  "attack": 125,
+  "defense": 40,
+  "hp": 67,
+  "name": "Cranidos",
+  "pokedex_number": 408,
+  "speed": 58,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d6"
+  },
+  "attack": 69,
+  "defense": 95,
+  "hp": 60,
+  "name": "Wormadam",
+  "pokedex_number": 413,
+  "speed": 36,
+  "type1": "bug",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d7"
+  },
+  "attack": 94,
+  "defense": 50,
+  "hp": 70,
+  "name": "Mothim",
+  "pokedex_number": 414,
+  "speed": 66,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e1"
+  },
+  "attack": 100,
+  "defense": 66,
+  "hp": 75,
+  "name": "Ambipom",
+  "pokedex_number": 424,
+  "speed": 115,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f5"
+  },
+  "attack": 90,
+  "defense": 65,
+  "hp": 68,
+  "name": "Gabite",
+  "pokedex_number": 444,
+  "speed": 82,
+  "type1": "dragon",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f6"
+  },
+  "attack": 170,
+  "defense": 115,
+  "hp": 108,
+  "name": "Garchomp",
+  "pokedex_number": 445,
+  "speed": 92,
+  "type1": "dragon",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ff"
+  },
+  "attack": 106,
+  "defense": 65,
+  "hp": 83,
+  "name": "Toxicroak",
+  "pokedex_number": 454,
+  "speed": 85,
+  "type1": "poison",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126502"
+  },
+  "attack": 69,
+  "defense": 76,
+  "hp": 69,
+  "name": "Lumineon",
+  "pokedex_number": 457,
+  "speed": 91,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126509"
+  },
+  "attack": 140,
+  "defense": 130,
+  "hp": 115,
+  "name": "Rhyperior",
+  "pokedex_number": 464,
+  "speed": 40,
+  "type1": "ground",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126521"
+  },
+  "attack": 70,
+  "defense": 120,
+  "hp": 120,
+  "name": "Cresselia",
+  "pokedex_number": 488,
+  "speed": 85,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126522"
+  },
+  "attack": 80,
+  "defense": 80,
+  "hp": 80,
+  "name": "Phione",
+  "pokedex_number": 489,
+  "speed": 80,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126528"
+  },
+  "attack": 45,
+  "defense": 55,
+  "hp": 45,
+  "name": "Snivy",
+  "pokedex_number": 495,
+  "speed": 63,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212653f"
+  },
+  "attack": 55,
+  "defense": 85,
+  "hp": 116,
+  "name": "Musharna",
+  "pokedex_number": 518,
+  "speed": 29,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126542"
+  },
+  "attack": 115,
+  "defense": 80,
+  "hp": 80,
+  "name": "Unfezant",
+  "pokedex_number": 521,
+  "speed": 93,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126553"
+  },
+  "attack": 100,
+  "defense": 85,
+  "hp": 120,
+  "name": "Throh",
+  "pokedex_number": 538,
+  "speed": 45,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126558"
+  },
+  "attack": 45,
+  "defense": 59,
+  "hp": 30,
+  "name": "Venipede",
+  "pokedex_number": 543,
+  "speed": 57,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212655e"
+  },
+  "attack": 60,
+  "defense": 75,
+  "hp": 70,
+  "name": "Lilligant",
+  "pokedex_number": 549,
+  "speed": 90,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126561"
+  },
+  "attack": 82,
+  "defense": 45,
+  "hp": 60,
+  "name": "Krokorok",
+  "pokedex_number": 552,
+  "speed": 74,
+  "type1": "ground",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126574"
+  },
+  "attack": 105,
+  "defense": 60,
+  "hp": 60,
+  "name": "Zoroark",
+  "pokedex_number": 571,
+  "speed": 105,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126582"
+  },
+  "attack": 60,
+  "defense": 50,
+  "hp": 60,
+  "name": "Deerling",
+  "pokedex_number": 585,
+  "speed": 75,
+  "type1": "normal",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b4"
+  },
+  "attack": 105,
+  "defense": 90,
+  "hp": 92,
+  "name": "Hydreigon",
+  "pokedex_number": 635,
+  "speed": 98,
+  "type1": "dark",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c4"
+  },
+  "attack": 78,
+  "defense": 95,
+  "hp": 61,
+  "name": "Quilladin",
+  "pokedex_number": 651,
+  "speed": 57,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212662c"
+  },
+  "attack": 35,
+  "defense": 55,
+  "hp": 40,
+  "name": "Morelull",
+  "pokedex_number": 755,
+  "speed": 15,
+  "type1": "grass",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126646"
+  },
+  "attack": 131,
+  "defense": 100,
+  "hp": 70,
+  "name": "Dhelmise",
+  "pokedex_number": 781,
+  "speed": 40,
+  "type1": "ghost",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212664a"
+  },
+  "attack": 115,
+  "defense": 85,
+  "hp": 70,
+  "name": "Tapu Koko",
+  "pokedex_number": 785,
+  "speed": 130,
+  "type1": "electric",
+  "type2": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212664b"
+  },
+  "attack": 85,
+  "defense": 75,
+  "hp": 70,
+  "name": "Tapu Lele",
+  "pokedex_number": 786,
+  "speed": 95,
+  "type1": "psychic",
+  "type2": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212664e"
+  },
+  "attack": 29,
+  "defense": 31,
+  "hp": 43,
+  "name": "Cosmog",
+  "pokedex_number": 789,
+  "speed": 37,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212634a"
+  },
+  "attack": 60,
+  "defense": 55,
+  "hp": 63,
+  "name": "Pidgeotto",
+  "pokedex_number": 17,
+  "speed": 71,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212636d"
+  },
+  "attack": 35,
+  "defense": 35,
+  "hp": 40,
+  "name": "Meowth",
+  "pokedex_number": 52,
+  "speed": 90,
+  "type1": "normal",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212635e"
+  },
+  "attack": 41,
+  "defense": 40,
+  "hp": 38,
+  "name": "Vulpix",
+  "pokedex_number": 37,
+  "speed": 65,
+  "type1": "fire",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126386"
+  },
+  "attack": 85,
+  "defense": 55,
+  "hp": 50,
+  "name": "Ponyta",
+  "pokedex_number": 77,
+  "speed": 90,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126390"
+  },
+  "attack": 70,
+  "defense": 80,
+  "hp": 90,
+  "name": "Dewgong",
+  "pokedex_number": 87,
+  "speed": 70,
+  "type1": "water",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212639d"
+  },
+  "attack": 30,
+  "defense": 50,
+  "hp": 40,
+  "name": "Voltorb",
+  "pokedex_number": 100,
+  "speed": 100,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212639e"
+  },
+  "attack": 50,
+  "defense": 70,
+  "hp": 60,
+  "name": "Electrode",
+  "pokedex_number": 101,
+  "speed": 150,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ec"
+  },
+  "attack": 40,
+  "defense": 40,
+  "hp": 55,
+  "name": "Mareep",
+  "pokedex_number": 179,
+  "speed": 35,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263fb"
+  },
+  "attack": 45,
+  "defense": 45,
+  "hp": 55,
+  "name": "Wooper",
+  "pokedex_number": 194,
+  "speed": 15,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126425"
+  },
+  "attack": 35,
+  "defense": 35,
+  "hp": 35,
+  "name": "Tyrogue",
+  "pokedex_number": 236,
+  "speed": 35,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126427"
+  },
+  "attack": 30,
+  "defense": 15,
+  "hp": 45,
+  "name": "Smoochum",
+  "pokedex_number": 238,
+  "speed": 65,
+  "type1": "ice",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126455"
+  },
+  "attack": 60,
+  "defense": 62,
+  "hp": 70,
+  "name": "Masquerain",
+  "pokedex_number": 284,
+  "speed": 80,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126463"
+  },
+  "attack": 20,
+  "defense": 40,
+  "hp": 50,
+  "name": "Azurill",
+  "pokedex_number": 298,
+  "speed": 20,
+  "type1": "normal",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212647f"
+  },
+  "attack": 45,
+  "defense": 65,
+  "hp": 80,
+  "name": "Grumpig",
+  "pokedex_number": 326,
+  "speed": 80,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126490"
+  },
+  "attack": 40,
+  "defense": 55,
+  "hp": 40,
+  "name": "Baltoy",
+  "pokedex_number": 343,
+  "speed": 55,
+  "type1": "ground",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212649a"
+  },
+  "attack": 75,
+  "defense": 35,
+  "hp": 44,
+  "name": "Shuppet",
+  "pokedex_number": 353,
+  "speed": 45,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a1"
+  },
+  "attack": 23,
+  "defense": 48,
+  "hp": 95,
+  "name": "Wynaut",
+  "pokedex_number": 360,
+  "speed": 23,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c0"
+  },
+  "attack": 78,
+  "defense": 52,
+  "hp": 64,
+  "name": "Monferno",
+  "pokedex_number": 391,
+  "speed": 81,
+  "type1": "fire",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e2"
+  },
+  "attack": 50,
+  "defense": 34,
+  "hp": 90,
+  "name": "Drifloon",
+  "pokedex_number": 425,
+  "speed": 70,
+  "type1": "ghost",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f4"
+  },
+  "attack": 70,
+  "defense": 45,
+  "hp": 58,
+  "name": "Gible",
+  "pokedex_number": 443,
+  "speed": 42,
+  "type1": "dragon",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f9"
+  },
+  "attack": 145,
+  "defense": 88,
+  "hp": 70,
+  "name": "Lucario",
+  "pokedex_number": 448,
+  "speed": 112,
+  "type1": "fighting",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212650d"
+  },
+  "attack": 50,
+  "defense": 95,
+  "hp": 85,
+  "name": "Togekiss",
+  "pokedex_number": 468,
+  "speed": 80,
+  "type1": "fairy",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126512"
+  },
+  "attack": 130,
+  "defense": 80,
+  "hp": 110,
+  "name": "Mamoswine",
+  "pokedex_number": 473,
+  "speed": 80,
+  "type1": "ice",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212652c"
+  },
+  "attack": 93,
+  "defense": 55,
+  "hp": 90,
+  "name": "Pignite",
+  "pokedex_number": 499,
+  "speed": 55,
+  "type1": "fire",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126536"
+  },
+  "attack": 50,
+  "defense": 37,
+  "hp": 41,
+  "name": "Purrloin",
+  "pokedex_number": 509,
+  "speed": 66,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126551"
+  },
+  "attack": 65,
+  "defense": 55,
+  "hp": 75,
+  "name": "Palpitoad",
+  "pokedex_number": 536,
+  "speed": 69,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212655d"
+  },
+  "attack": 35,
+  "defense": 50,
+  "hp": 45,
+  "name": "Petilil",
+  "pokedex_number": 548,
+  "speed": 30,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126563"
+  },
+  "attack": 90,
+  "defense": 45,
+  "hp": 70,
+  "name": "Darumaka",
+  "pokedex_number": 554,
+  "speed": 50,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126589"
+  },
+  "attack": 40,
+  "defense": 50,
+  "hp": 55,
+  "name": "Frillish",
+  "pokedex_number": 592,
+  "speed": 40,
+  "type1": "water",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212658d"
+  },
+  "attack": 77,
+  "defense": 60,
+  "hp": 70,
+  "name": "Galvantula",
+  "pokedex_number": 596,
+  "speed": 108,
+  "type1": "bug",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a4"
+  },
+  "attack": 85,
+  "defense": 50,
+  "hp": 45,
+  "name": "Mienfoo",
+  "pokedex_number": 619,
+  "speed": 65,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c0"
+  },
+  "attack": 72,
+  "defense": 90,
+  "hp": 91,
+  "name": "Keldeo",
+  "pokedex_number": 647,
+  "speed": 108,
+  "type1": "water",
+  "type2": "fighting",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265cb"
+  },
+  "attack": 145,
+  "defense": 67,
+  "hp": 72,
+  "name": "Greninja",
+  "pokedex_number": 658,
+  "speed": 132,
+  "type1": "water",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265eb"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 50,
+  "name": "Skrelp",
+  "pokedex_number": 690,
+  "speed": 30,
+  "type1": "poison",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265fb"
+  },
+  "attack": 100,
+  "defense": 70,
+  "hp": 90,
+  "name": "Goodra",
+  "pokedex_number": 706,
+  "speed": 80,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212661b"
+  },
+  "attack": 70,
+  "defense": 90,
+  "hp": 77,
+  "name": "Vikavolt",
+  "pokedex_number": 738,
+  "speed": 43,
+  "type1": "bug",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126622"
+  },
+  "attack": 115,
+  "defense": 75,
+  "hp": 85,
+  "name": "Lycanroc",
+  "pokedex_number": 745,
+  "speed": 82,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212664c"
+  },
+  "attack": 130,
+  "defense": 115,
+  "hp": 70,
+  "name": "Tapu Bulu",
+  "pokedex_number": 787,
+  "speed": 75,
+  "type1": "grass",
+  "type2": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126363"
+  },
+  "attack": 80,
+  "defense": 70,
+  "hp": 75,
+  "name": "Golbat",
+  "pokedex_number": 42,
+  "speed": 90,
+  "type1": "poison",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126367"
+  },
+  "attack": 70,
+  "defense": 55,
+  "hp": 35,
+  "name": "Paras",
+  "pokedex_number": 46,
+  "speed": 25,
+  "type1": "bug",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126369"
+  },
+  "attack": 55,
+  "defense": 50,
+  "hp": 60,
+  "name": "Venonat",
+  "pokedex_number": 48,
+  "speed": 45,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126374"
+  },
+  "attack": 110,
+  "defense": 80,
+  "hp": 90,
+  "name": "Arcanine",
+  "pokedex_number": 59,
+  "speed": 95,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212638b"
+  },
+  "attack": 60,
+  "defense": 95,
+  "hp": 50,
+  "name": "Magneton",
+  "pokedex_number": 82,
+  "speed": 70,
+  "type1": "electric",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126391"
+  },
+  "attack": 80,
+  "defense": 50,
+  "hp": 80,
+  "name": "Grimer",
+  "pokedex_number": 88,
+  "speed": 25,
+  "type1": "poison",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c2"
+  },
+  "attack": 60,
+  "defense": 70,
+  "hp": 65,
+  "name": "Porygon",
+  "pokedex_number": 137,
+  "speed": 40,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c3"
+  },
+  "attack": 40,
+  "defense": 100,
+  "hp": 35,
+  "name": "Omanyte",
+  "pokedex_number": 138,
+  "speed": 35,
+  "type1": "rock",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d1"
+  },
+  "attack": 49,
+  "defense": 65,
+  "hp": 45,
+  "name": "Chikorita",
+  "pokedex_number": 152,
+  "speed": 45,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d4"
+  },
+  "attack": 52,
+  "defense": 43,
+  "hp": 39,
+  "name": "Cyndaquil",
+  "pokedex_number": 155,
+  "speed": 65,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263dc"
+  },
+  "attack": 30,
+  "defense": 30,
+  "hp": 60,
+  "name": "Hoothoot",
+  "pokedex_number": 163,
+  "speed": 50,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e2"
+  },
+  "attack": 90,
+  "defense": 80,
+  "hp": 85,
+  "name": "Crobat",
+  "pokedex_number": 169,
+  "speed": 130,
+  "type1": "poison",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ea"
+  },
+  "attack": 50,
+  "defense": 45,
+  "hp": 40,
+  "name": "Natu",
+  "pokedex_number": 177,
+  "speed": 70,
+  "type1": "psychic",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f9"
+  },
+  "attack": 75,
+  "defense": 55,
+  "hp": 75,
+  "name": "Sunflora",
+  "pokedex_number": 192,
+  "speed": 30,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263fd"
+  },
+  "attack": 65,
+  "defense": 60,
+  "hp": 65,
+  "name": "Espeon",
+  "pokedex_number": 196,
+  "speed": 110,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ff"
+  },
+  "attack": 85,
+  "defense": 42,
+  "hp": 60,
+  "name": "Murkrow",
+  "pokedex_number": 198,
+  "speed": 91,
+  "type1": "dark",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212640e"
+  },
+  "attack": 10,
+  "defense": 230,
+  "hp": 20,
+  "name": "Shuckle",
+  "pokedex_number": 213,
+  "speed": 5,
+  "type1": "bug",
+  "type2": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126426"
+  },
+  "attack": 95,
+  "defense": 95,
+  "hp": 50,
+  "name": "Hitmontop",
+  "pokedex_number": 237,
+  "speed": 70,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212643b"
+  },
+  "attack": 70,
+  "defense": 50,
+  "hp": 50,
+  "name": "Mudkip",
+  "pokedex_number": 258,
+  "speed": 40,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126474"
+  },
+  "attack": 60,
+  "defense": 45,
+  "hp": 50,
+  "name": "Roselia",
+  "pokedex_number": 315,
+  "speed": 65,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126476"
+  },
+  "attack": 73,
+  "defense": 83,
+  "hp": 100,
+  "name": "Swalot",
+  "pokedex_number": 317,
+  "speed": 55,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126484"
+  },
+  "attack": 85,
+  "defense": 40,
+  "hp": 50,
+  "name": "Cacnea",
+  "pokedex_number": 331,
+  "speed": 35,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126486"
+  },
+  "attack": 40,
+  "defense": 60,
+  "hp": 45,
+  "name": "Swablu",
+  "pokedex_number": 333,
+  "speed": 50,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b0"
+  },
+  "attack": 75,
+  "defense": 100,
+  "hp": 60,
+  "name": "Metang",
+  "pokedex_number": 375,
+  "speed": 50,
+  "type1": "steel",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b4"
+  },
+  "attack": 75,
+  "defense": 150,
+  "hp": 80,
+  "name": "Registeel",
+  "pokedex_number": 379,
+  "speed": 50,
+  "type1": "steel",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264bb"
+  },
+  "attack": 95,
+  "defense": 90,
+  "hp": 50,
+  "name": "Deoxys",
+  "pokedex_number": 386,
+  "speed": 180,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c1"
+  },
+  "attack": 104,
+  "defense": 71,
+  "hp": 76,
+  "name": "Infernape",
+  "pokedex_number": 392,
+  "speed": 108,
+  "type1": "fire",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ce"
+  },
+  "attack": 120,
+  "defense": 79,
+  "hp": 80,
+  "name": "Luxray",
+  "pokedex_number": 405,
+  "speed": 70,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d2"
+  },
+  "attack": 165,
+  "defense": 60,
+  "hp": 97,
+  "name": "Rampardos",
+  "pokedex_number": 409,
+  "speed": 58,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264da"
+  },
+  "attack": 45,
+  "defense": 70,
+  "hp": 60,
+  "name": "Pachirisu",
+  "pokedex_number": 417,
+  "speed": 95,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264df"
+  },
+  "attack": 48,
+  "defense": 48,
+  "hp": 76,
+  "name": "Shellos",
+  "pokedex_number": 422,
+  "speed": 34,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e7"
+  },
+  "attack": 125,
+  "defense": 52,
+  "hp": 100,
+  "name": "Honchkrow",
+  "pokedex_number": 430,
+  "speed": 71,
+  "type1": "dark",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212650c"
+  },
+  "attack": 95,
+  "defense": 67,
+  "hp": 75,
+  "name": "Magmortar",
+  "pokedex_number": 467,
+  "speed": 83,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126516"
+  },
+  "attack": 100,
+  "defense": 135,
+  "hp": 45,
+  "name": "Dusknoir",
+  "pokedex_number": 477,
+  "speed": 45,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126526"
+  },
+  "attack": 120,
+  "defense": 120,
+  "hp": 120,
+  "name": "Arceus",
+  "pokedex_number": 493,
+  "speed": 120,
+  "type1": "normal",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212654f"
+  },
+  "attack": 140,
+  "defense": 95,
+  "hp": 105,
+  "name": "Conkeldurr",
+  "pokedex_number": 534,
+  "speed": 45,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126559"
+  },
+  "attack": 55,
+  "defense": 99,
+  "hp": 40,
+  "name": "Whirlipede",
+  "pokedex_number": 544,
+  "speed": 47,
+  "type1": "bug",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212657a"
+  },
+  "attack": 30,
+  "defense": 40,
+  "hp": 45,
+  "name": "Solosis",
+  "pokedex_number": 577,
+  "speed": 20,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212657f"
+  },
+  "attack": 50,
+  "defense": 50,
+  "hp": 36,
+  "name": "Vanillite",
+  "pokedex_number": 582,
+  "speed": 44,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126583"
+  },
+  "attack": 100,
+  "defense": 70,
+  "hp": 80,
+  "name": "Sawsbuck",
+  "pokedex_number": 586,
+  "speed": 95,
+  "type1": "normal",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212659e"
+  },
+  "attack": 70,
+  "defense": 40,
+  "hp": 55,
+  "name": "Cubchoo",
+  "pokedex_number": 613,
+  "speed": 40,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265be"
+  },
+  "attack": 145,
+  "defense": 90,
+  "hp": 89,
+  "name": "Landorus",
+  "pokedex_number": 645,
+  "speed": 91,
+  "type1": "ground",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265cc"
+  },
+  "attack": 36,
+  "defense": 38,
+  "hp": 38,
+  "name": "Bunnelby",
+  "pokedex_number": 659,
+  "speed": 57,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265db"
+  },
+  "attack": 82,
+  "defense": 62,
+  "hp": 67,
+  "name": "Pancham",
+  "pokedex_number": 674,
+  "speed": 43,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ea"
+  },
+  "attack": 105,
+  "defense": 115,
+  "hp": 72,
+  "name": "Barbaracle",
+  "pokedex_number": 689,
+  "speed": 68,
+  "type1": "rock",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ec"
+  },
+  "attack": 75,
+  "defense": 90,
+  "hp": 65,
+  "name": "Dragalge",
+  "pokedex_number": 691,
+  "speed": 44,
+  "type1": "poison",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f1"
+  },
+  "attack": 89,
+  "defense": 77,
+  "hp": 58,
+  "name": "Tyrunt",
+  "pokedex_number": 696,
+  "speed": 48,
+  "type1": "rock",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126606"
+  },
+  "attack": 131,
+  "defense": 95,
+  "hp": 126,
+  "name": "Yveltal",
+  "pokedex_number": 717,
+  "speed": 99,
+  "type1": "dark",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212660d"
+  },
+  "attack": 107,
+  "defense": 75,
+  "hp": 78,
+  "name": "Decidueye",
+  "pokedex_number": 724,
+  "speed": 70,
+  "type1": "grass",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212663f"
+  },
+  "attack": 100,
+  "defense": 60,
+  "hp": 60,
+  "name": "Minior",
+  "pokedex_number": 774,
+  "speed": 120,
+  "type1": "rock",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126345"
+  },
+  "attack": 45,
+  "defense": 50,
+  "hp": 60,
+  "name": "Butterfree",
+  "pokedex_number": 12,
+  "speed": 70,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126342"
+  },
+  "attack": 103,
+  "defense": 120,
+  "hp": 79,
+  "name": "Blastoise",
+  "pokedex_number": 9,
+  "speed": 78,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126377"
+  },
+  "attack": 95,
+  "defense": 95,
+  "hp": 90,
+  "name": "Poliwrath",
+  "pokedex_number": 62,
+  "speed": 70,
+  "type1": "water",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126387"
+  },
+  "attack": 100,
+  "defense": 70,
+  "hp": 65,
+  "name": "Rapidash",
+  "pokedex_number": 78,
+  "speed": 105,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263a1"
+  },
+  "attack": 50,
+  "defense": 95,
+  "hp": 50,
+  "name": "Cubone",
+  "pokedex_number": 104,
+  "speed": 35,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ae"
+  },
+  "attack": 65,
+  "defense": 95,
+  "hp": 55,
+  "name": "Seadra",
+  "pokedex_number": 117,
+  "speed": 85,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c6"
+  },
+  "attack": 115,
+  "defense": 105,
+  "hp": 60,
+  "name": "Kabutops",
+  "pokedex_number": 141,
+  "speed": 80,
+  "type1": "rock",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263cb"
+  },
+  "attack": 100,
+  "defense": 90,
+  "hp": 90,
+  "name": "Moltres",
+  "pokedex_number": 146,
+  "speed": 90,
+  "type1": "fire",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263cd"
+  },
+  "attack": 84,
+  "defense": 65,
+  "hp": 61,
+  "name": "Dragonair",
+  "pokedex_number": 148,
+  "speed": 70,
+  "type1": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e3"
+  },
+  "attack": 38,
+  "defense": 38,
+  "hp": 75,
+  "name": "Chinchou",
+  "pokedex_number": 170,
+  "speed": 67,
+  "type1": "water",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263fc"
+  },
+  "attack": 85,
+  "defense": 85,
+  "hp": 95,
+  "name": "Quagsire",
+  "pokedex_number": 195,
+  "speed": 35,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126408"
+  },
+  "attack": 75,
+  "defense": 105,
+  "hp": 65,
+  "name": "Gligar",
+  "pokedex_number": 207,
+  "speed": 85,
+  "type1": "ground",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212640a"
+  },
+  "attack": 80,
+  "defense": 50,
+  "hp": 60,
+  "name": "Snubbull",
+  "pokedex_number": 209,
+  "speed": 30,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212641c"
+  },
+  "attack": 80,
+  "defense": 140,
+  "hp": 65,
+  "name": "Skarmory",
+  "pokedex_number": 227,
+  "speed": 70,
+  "type1": "steel",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126436"
+  },
+  "attack": 65,
+  "defense": 45,
+  "hp": 50,
+  "name": "Grovyle",
+  "pokedex_number": 253,
+  "speed": 95,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126437"
+  },
+  "attack": 110,
+  "defense": 75,
+  "hp": 70,
+  "name": "Sceptile",
+  "pokedex_number": 254,
+  "speed": 145,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126461"
+  },
+  "attack": 60,
+  "defense": 30,
+  "hp": 72,
+  "name": "Makuhita",
+  "pokedex_number": 296,
+  "speed": 25,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126464"
+  },
+  "attack": 45,
+  "defense": 135,
+  "hp": 30,
+  "name": "Nosepass",
+  "pokedex_number": 299,
+  "speed": 30,
+  "type1": "rock",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126465"
+  },
+  "attack": 45,
+  "defense": 45,
+  "hp": 50,
+  "name": "Skitty",
+  "pokedex_number": 300,
+  "speed": 50,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212646e"
+  },
+  "attack": 45,
+  "defense": 40,
+  "hp": 40,
+  "name": "Electrike",
+  "pokedex_number": 309,
+  "speed": 65,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126482"
+  },
+  "attack": 70,
+  "defense": 50,
+  "hp": 50,
+  "name": "Vibrava",
+  "pokedex_number": 329,
+  "speed": 70,
+  "type1": "ground",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126487"
+  },
+  "attack": 110,
+  "defense": 110,
+  "hp": 75,
+  "name": "Altaria",
+  "pokedex_number": 334,
+  "speed": 80,
+  "type1": "dragon",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b9"
+  },
+  "attack": 180,
+  "defense": 100,
+  "hp": 105,
+  "name": "Rayquaza",
+  "pokedex_number": 384,
+  "speed": 115,
+  "type1": "dragon",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c4"
+  },
+  "attack": 86,
+  "defense": 88,
+  "hp": 84,
+  "name": "Empoleon",
+  "pokedex_number": 395,
+  "speed": 60,
+  "type1": "water",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264cd"
+  },
+  "attack": 85,
+  "defense": 49,
+  "hp": 60,
+  "name": "Luxio",
+  "pokedex_number": 404,
+  "speed": 60,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f0"
+  },
+  "attack": 25,
+  "defense": 45,
+  "hp": 20,
+  "name": "Mime Jr.",
+  "pokedex_number": 439,
+  "speed": 60,
+  "type1": "psychic",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212652d"
+  },
+  "attack": 123,
+  "defense": 65,
+  "hp": 110,
+  "name": "Emboar",
+  "pokedex_number": 500,
+  "speed": 65,
+  "type1": "fire",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126531"
+  },
+  "attack": 55,
+  "defense": 39,
+  "hp": 45,
+  "name": "Patrat",
+  "pokedex_number": 504,
+  "speed": 42,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212653e"
+  },
+  "attack": 25,
+  "defense": 45,
+  "hp": 76,
+  "name": "Munna",
+  "pokedex_number": 517,
+  "speed": 24,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126549"
+  },
+  "attack": 57,
+  "defense": 55,
+  "hp": 67,
+  "name": "Swoobat",
+  "pokedex_number": 528,
+  "speed": 114,
+  "type1": "psychic",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126569"
+  },
+  "attack": 90,
+  "defense": 115,
+  "hp": 65,
+  "name": "Scrafty",
+  "pokedex_number": 560,
+  "speed": 58,
+  "type1": "dark",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126580"
+  },
+  "attack": 65,
+  "defense": 65,
+  "hp": 51,
+  "name": "Vanillish",
+  "pokedex_number": 583,
+  "speed": 59,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126585"
+  },
+  "attack": 75,
+  "defense": 45,
+  "hp": 50,
+  "name": "Karrablast",
+  "pokedex_number": 588,
+  "speed": 60,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a1"
+  },
+  "attack": 40,
+  "defense": 85,
+  "hp": 50,
+  "name": "Shelmet",
+  "pokedex_number": 616,
+  "speed": 25,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a9"
+  },
+  "attack": 85,
+  "defense": 70,
+  "hp": 45,
+  "name": "Pawniard",
+  "pokedex_number": 624,
+  "speed": 60,
+  "type1": "dark",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ce"
+  },
+  "attack": 50,
+  "defense": 43,
+  "hp": 45,
+  "name": "Fletchling",
+  "pokedex_number": 661,
+  "speed": 62,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ef"
+  },
+  "attack": 38,
+  "defense": 33,
+  "hp": 44,
+  "name": "Helioptile",
+  "pokedex_number": 694,
+  "speed": 70,
+  "type1": "electric",
+  "type2": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f0"
+  },
+  "attack": 55,
+  "defense": 52,
+  "hp": 62,
+  "name": "Heliolisk",
+  "pokedex_number": 695,
+  "speed": 109,
+  "type1": "electric",
+  "type2": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f2"
+  },
+  "attack": 121,
+  "defense": 119,
+  "hp": 82,
+  "name": "Tyrantrum",
+  "pokedex_number": 697,
+  "speed": 71,
+  "type1": "rock",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212660c"
+  },
+  "attack": 75,
+  "defense": 75,
+  "hp": 78,
+  "name": "Dartrix",
+  "pokedex_number": 723,
+  "speed": 52,
+  "type1": "grass",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126627"
+  },
+  "attack": 125,
+  "defense": 100,
+  "hp": 100,
+  "name": "Mudsdale",
+  "pokedex_number": 750,
+  "speed": 35,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212662d"
+  },
+  "attack": 45,
+  "defense": 80,
+  "hp": 60,
+  "name": "Shiinotic",
+  "pokedex_number": 756,
+  "speed": 30,
+  "type1": "grass",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212663e"
+  },
+  "attack": 95,
+  "defense": 95,
+  "hp": 95,
+  "name": "Silvally",
+  "pokedex_number": 773,
+  "speed": 95,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126643"
+  },
+  "attack": 90,
+  "defense": 80,
+  "hp": 55,
+  "name": "Mimikyu",
+  "pokedex_number": 778,
+  "speed": 96,
+  "type1": "ghost",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212664f"
+  },
+  "attack": 29,
+  "defense": 131,
+  "hp": 43,
+  "name": "Cosmoem",
+  "pokedex_number": 790,
+  "speed": 37,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126653"
+  },
+  "attack": 139,
+  "defense": 139,
+  "hp": 107,
+  "name": "Buzzwole",
+  "pokedex_number": 794,
+  "speed": 79,
+  "type1": "bug",
+  "type2": "fighting",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126657"
+  },
+  "attack": 181,
+  "defense": 131,
+  "hp": 59,
+  "name": "Kartana",
+  "pokedex_number": 798,
+  "speed": 109,
+  "type1": "grass",
+  "type2": "steel",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126658"
+  },
+  "attack": 101,
+  "defense": 53,
+  "hp": 223,
+  "name": "Guzzlord",
+  "pokedex_number": 799,
+  "speed": 43,
+  "type1": "dark",
+  "type2": "dragon",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126349"
+  },
+  "attack": 45,
+  "defense": 40,
+  "hp": 40,
+  "name": "Pidgey",
+  "pokedex_number": 16,
+  "speed": 56,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212634c"
+  },
+  "attack": 56,
+  "defense": 35,
+  "hp": 30,
+  "name": "Rattata",
+  "pokedex_number": 19,
+  "speed": 72,
+  "type1": "normal",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212635a"
+  },
+  "attack": 72,
+  "defense": 57,
+  "hp": 61,
+  "name": "Nidorino",
+  "pokedex_number": 33,
+  "speed": 65,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126360"
+  },
+  "attack": 45,
+  "defense": 20,
+  "hp": 115,
+  "name": "Jigglypuff",
+  "pokedex_number": 39,
+  "speed": 20,
+  "type1": "normal",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126371"
+  },
+  "attack": 80,
+  "defense": 35,
+  "hp": 40,
+  "name": "Mankey",
+  "pokedex_number": 56,
+  "speed": 70,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126379"
+  },
+  "attack": 35,
+  "defense": 30,
+  "hp": 40,
+  "name": "Kadabra",
+  "pokedex_number": 64,
+  "speed": 105,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ac"
+  },
+  "attack": 125,
+  "defense": 100,
+  "hp": 105,
+  "name": "Kangaskhan",
+  "pokedex_number": 115,
+  "speed": 100,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263bc"
+  },
+  "attack": 85,
+  "defense": 80,
+  "hp": 130,
+  "name": "Lapras",
+  "pokedex_number": 131,
+  "speed": 60,
+  "type1": "water",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263c0"
+  },
+  "attack": 65,
+  "defense": 60,
+  "hp": 65,
+  "name": "Jolteon",
+  "pokedex_number": 135,
+  "speed": 130,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d7"
+  },
+  "attack": 65,
+  "defense": 64,
+  "hp": 50,
+  "name": "Totodile",
+  "pokedex_number": 158,
+  "speed": 43,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e8"
+  },
+  "attack": 20,
+  "defense": 65,
+  "hp": 35,
+  "name": "Togepi",
+  "pokedex_number": 175,
+  "speed": 20,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263fe"
+  },
+  "attack": 65,
+  "defense": 110,
+  "hp": 95,
+  "name": "Umbreon",
+  "pokedex_number": 197,
+  "speed": 65,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126401"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 60,
+  "name": "Misdreavus",
+  "pokedex_number": 200,
+  "speed": 85,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126406"
+  },
+  "attack": 90,
+  "defense": 140,
+  "hp": 75,
+  "name": "Forretress",
+  "pokedex_number": 205,
+  "speed": 40,
+  "type1": "bug",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126413"
+  },
+  "attack": 40,
+  "defense": 40,
+  "hp": 40,
+  "name": "Slugma",
+  "pokedex_number": 218,
+  "speed": 20,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126429"
+  },
+  "attack": 75,
+  "defense": 37,
+  "hp": 45,
+  "name": "Magby",
+  "pokedex_number": 240,
+  "speed": 83,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126438"
+  },
+  "attack": 60,
+  "defense": 40,
+  "hp": 45,
+  "name": "Torchic",
+  "pokedex_number": 255,
+  "speed": 45,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212644a"
+  },
+  "attack": 40,
+  "defense": 50,
+  "hp": 40,
+  "name": "Seedot",
+  "pokedex_number": 273,
+  "speed": 30,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212644f"
+  },
+  "attack": 30,
+  "defense": 30,
+  "hp": 40,
+  "name": "Wingull",
+  "pokedex_number": 278,
+  "speed": 85,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212645a"
+  },
+  "attack": 160,
+  "defense": 100,
+  "hp": 150,
+  "name": "Slaking",
+  "pokedex_number": 289,
+  "speed": 100,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126477"
+  },
+  "attack": 90,
+  "defense": 20,
+  "hp": 45,
+  "name": "Carvanha",
+  "pokedex_number": 318,
+  "speed": 65,
+  "type1": "water",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212647b"
+  },
+  "attack": 60,
+  "defense": 40,
+  "hp": 60,
+  "name": "Numel",
+  "pokedex_number": 322,
+  "speed": 35,
+  "type1": "fire",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126494"
+  },
+  "attack": 95,
+  "defense": 50,
+  "hp": 45,
+  "name": "Anorith",
+  "pokedex_number": 347,
+  "speed": 75,
+  "type1": "rock",
+  "type2": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264a9"
+  },
+  "attack": 84,
+  "defense": 105,
+  "hp": 55,
+  "name": "Gorebyss",
+  "pokedex_number": 368,
+  "speed": 52,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264bc"
+  },
+  "attack": 68,
+  "defense": 64,
+  "hp": 55,
+  "name": "Turtwig",
+  "pokedex_number": 387,
+  "speed": 31,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264bd"
+  },
+  "attack": 89,
+  "defense": 85,
+  "hp": 75,
+  "name": "Grotle",
+  "pokedex_number": 388,
+  "speed": 36,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c2"
+  },
+  "attack": 51,
+  "defense": 53,
+  "hp": 53,
+  "name": "Piplup",
+  "pokedex_number": 393,
+  "speed": 40,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c3"
+  },
+  "attack": 66,
+  "defense": 68,
+  "hp": 64,
+  "name": "Prinplup",
+  "pokedex_number": 394,
+  "speed": 50,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c7"
+  },
+  "attack": 120,
+  "defense": 70,
+  "hp": 85,
+  "name": "Staraptor",
+  "pokedex_number": 398,
+  "speed": 100,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d3"
+  },
+  "attack": 42,
+  "defense": 118,
+  "hp": 30,
+  "name": "Shieldon",
+  "pokedex_number": 410,
+  "speed": 30,
+  "type1": "rock",
+  "type2": "steel",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d9"
+  },
+  "attack": 80,
+  "defense": 102,
+  "hp": 70,
+  "name": "Vespiquen",
+  "pokedex_number": 416,
+  "speed": 40,
+  "type1": "bug",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126359"
+  },
+  "attack": 57,
+  "defense": 40,
+  "hp": 46,
+  "name": "Nidoran♂",
+  "pokedex_number": 32,
+  "speed": 50,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264db"
+  },
+  "attack": 65,
+  "defense": 35,
+  "hp": 55,
+  "name": "Buizel",
+  "pokedex_number": 418,
+  "speed": 85,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212636e"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 65,
+  "name": "Persian",
+  "pokedex_number": 53,
+  "speed": 115,
+  "type1": "normal",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ec"
+  },
+  "attack": 93,
+  "defense": 67,
+  "hp": 103,
+  "name": "Skuntank",
+  "pokedex_number": 435,
+  "speed": 84,
+  "type1": "poison",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126384"
+  },
+  "attack": 95,
+  "defense": 115,
+  "hp": 55,
+  "name": "Graveler",
+  "pokedex_number": 75,
+  "speed": 35,
+  "type1": "rock",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126389"
+  },
+  "attack": 75,
+  "defense": 180,
+  "hp": 95,
+  "name": "Slowbro",
+  "pokedex_number": 80,
+  "speed": 30,
+  "type1": "water",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126501"
+  },
+  "attack": 49,
+  "defense": 56,
+  "hp": 49,
+  "name": "Finneon",
+  "pokedex_number": 456,
+  "speed": 66,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126506"
+  },
+  "attack": 120,
+  "defense": 65,
+  "hp": 70,
+  "name": "Weavile",
+  "pokedex_number": 461,
+  "speed": 125,
+  "type1": "dark",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126393"
+  },
+  "attack": 65,
+  "defense": 100,
+  "hp": 30,
+  "name": "Shellder",
+  "pokedex_number": 90,
+  "speed": 40,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126395"
+  },
+  "attack": 35,
+  "defense": 30,
+  "hp": 30,
+  "name": "Gastly",
+  "pokedex_number": 92,
+  "speed": 80,
+  "type1": "ghost",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126508"
+  },
+  "attack": 85,
+  "defense": 95,
+  "hp": 110,
+  "name": "Lickilicky",
+  "pokedex_number": 463,
+  "speed": 50,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212650f"
+  },
+  "attack": 110,
+  "defense": 130,
+  "hp": 65,
+  "name": "Leafeon",
+  "pokedex_number": 470,
+  "speed": 95,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b9"
+  },
+  "attack": 100,
+  "defense": 95,
+  "hp": 75,
+  "name": "Tauros",
+  "pokedex_number": 128,
+  "speed": 110,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263be"
+  },
+  "attack": 55,
+  "defense": 50,
+  "hp": 55,
+  "name": "Eevee",
+  "pokedex_number": 133,
+  "speed": 55,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126518"
+  },
+  "attack": 65,
+  "defense": 107,
+  "hp": 50,
+  "name": "Rotom",
+  "pokedex_number": 479,
+  "speed": 86,
+  "type1": "electric",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212653c"
+  },
+  "attack": 53,
+  "defense": 48,
+  "hp": 50,
+  "name": "Panpour",
+  "pokedex_number": 515,
+  "speed": 64,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ca"
+  },
+  "attack": 90,
+  "defense": 85,
+  "hp": 90,
+  "name": "Zapdos",
+  "pokedex_number": 145,
+  "speed": 100,
+  "type1": "electric",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d0"
+  },
+  "attack": 100,
+  "defense": 100,
+  "hp": 100,
+  "name": "Mew",
+  "pokedex_number": 151,
+  "speed": 100,
+  "type1": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126540"
+  },
+  "attack": 55,
+  "defense": 50,
+  "hp": 50,
+  "name": "Pidove",
+  "pokedex_number": 519,
+  "speed": 43,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126544"
+  },
+  "attack": 100,
+  "defense": 63,
+  "hp": 75,
+  "name": "Zebstrika",
+  "pokedex_number": 523,
+  "speed": 116,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263d6"
+  },
+  "attack": 84,
+  "defense": 78,
+  "hp": 78,
+  "name": "Typhlosion",
+  "pokedex_number": 157,
+  "speed": 100,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212654c"
+  },
+  "attack": 60,
+  "defense": 126,
+  "hp": 103,
+  "name": "Audino",
+  "pokedex_number": 531,
+  "speed": 50,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e6"
+  },
+  "attack": 25,
+  "defense": 28,
+  "hp": 50,
+  "name": "Cleffa",
+  "pokedex_number": 173,
+  "speed": 15,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263f5"
+  },
+  "attack": 45,
+  "defense": 50,
+  "hp": 55,
+  "name": "Skiploom",
+  "pokedex_number": 188,
+  "speed": 80,
+  "type1": "grass",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126555"
+  },
+  "attack": 53,
+  "defense": 70,
+  "hp": 45,
+  "name": "Sewaddle",
+  "pokedex_number": 540,
+  "speed": 42,
+  "type1": "bug",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212658c"
+  },
+  "attack": 47,
+  "defense": 50,
+  "hp": 50,
+  "name": "Joltik",
+  "pokedex_number": 595,
+  "speed": 65,
+  "type1": "bug",
+  "type2": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126404"
+  },
+  "attack": 80,
+  "defense": 65,
+  "hp": 70,
+  "name": "Girafarig",
+  "pokedex_number": 203,
+  "speed": 85,
+  "type1": "normal",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126415"
+  },
+  "attack": 50,
+  "defense": 40,
+  "hp": 50,
+  "name": "Swinub",
+  "pokedex_number": 220,
+  "speed": 50,
+  "type1": "ice",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265a8"
+  },
+  "attack": 124,
+  "defense": 80,
+  "hp": 89,
+  "name": "Golurk",
+  "pokedex_number": 623,
+  "speed": 55,
+  "type1": "ground",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126422"
+  },
+  "attack": 80,
+  "defense": 90,
+  "hp": 85,
+  "name": "Porygon2",
+  "pokedex_number": 233,
+  "speed": 60,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ba"
+  },
+  "attack": 100,
+  "defense": 80,
+  "hp": 79,
+  "name": "Tornadus",
+  "pokedex_number": 641,
+  "speed": 121,
+  "type1": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d6"
+  },
+  "attack": 38,
+  "defense": 39,
+  "hp": 44,
+  "name": "Flabébé",
+  "pokedex_number": 669,
+  "speed": 42,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212643c"
+  },
+  "attack": 85,
+  "defense": 70,
+  "hp": 70,
+  "name": "Marshtomp",
+  "pokedex_number": 259,
+  "speed": 50,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d7"
+  },
+  "attack": 65,
+  "defense": 67,
+  "hp": 74,
+  "name": "Floette",
+  "pokedex_number": 670,
+  "speed": 92,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212643d"
+  },
+  "attack": 150,
+  "defense": 110,
+  "hp": 100,
+  "name": "Swampert",
+  "pokedex_number": 260,
+  "speed": 70,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126443"
+  },
+  "attack": 35,
+  "defense": 55,
+  "hp": 50,
+  "name": "Silcoon",
+  "pokedex_number": 266,
+  "speed": 15,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e2"
+  },
+  "attack": 150,
+  "defense": 50,
+  "hp": 60,
+  "name": "Aegislash",
+  "pokedex_number": 681,
+  "speed": 60,
+  "type1": "steel",
+  "type2": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e5"
+  },
+  "attack": 48,
+  "defense": 66,
+  "hp": 62,
+  "name": "Swirlix",
+  "pokedex_number": 684,
+  "speed": 49,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212644d"
+  },
+  "attack": 55,
+  "defense": 30,
+  "hp": 40,
+  "name": "Taillow",
+  "pokedex_number": 276,
+  "speed": 85,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212645f"
+  },
+  "attack": 71,
+  "defense": 43,
+  "hp": 84,
+  "name": "Loudred",
+  "pokedex_number": 294,
+  "speed": 48,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f8"
+  },
+  "attack": 50,
+  "defense": 150,
+  "hp": 50,
+  "name": "Carbink",
+  "pokedex_number": 703,
+  "speed": 50,
+  "type1": "rock",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126610"
+  },
+  "attack": 115,
+  "defense": 90,
+  "hp": 95,
+  "name": "Incineroar",
+  "pokedex_number": 727,
+  "speed": 60,
+  "type1": "fire",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126462"
+  },
+  "attack": 120,
+  "defense": 60,
+  "hp": 144,
+  "name": "Hariyama",
+  "pokedex_number": 297,
+  "speed": 50,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126466"
+  },
+  "attack": 65,
+  "defense": 65,
+  "hp": 70,
+  "name": "Delcatty",
+  "pokedex_number": 301,
+  "speed": 90,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126611"
+  },
+  "attack": 54,
+  "defense": 54,
+  "hp": 50,
+  "name": "Popplio",
+  "pokedex_number": 728,
+  "speed": 40,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126620"
+  },
+  "attack": 55,
+  "defense": 60,
+  "hp": 60,
+  "name": "Ribombee",
+  "pokedex_number": 743,
+  "speed": 124,
+  "type1": "bug",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126472"
+  },
+  "attack": 73,
+  "defense": 75,
+  "hp": 65,
+  "name": "Volbeat",
+  "pokedex_number": 313,
+  "speed": 85,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126623"
+  },
+  "attack": 140,
+  "defense": 130,
+  "hp": 45,
+  "name": "Wishiwashi",
+  "pokedex_number": 746,
+  "speed": 30,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126478"
+  },
+  "attack": 140,
+  "defense": 70,
+  "hp": 70,
+  "name": "Sharpedo",
+  "pokedex_number": 319,
+  "speed": 105,
+  "type1": "water",
+  "type2": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126479"
+  },
+  "attack": 70,
+  "defense": 35,
+  "hp": 130,
+  "name": "Wailmer",
+  "pokedex_number": 320,
+  "speed": 60,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126624"
+  },
+  "attack": 53,
+  "defense": 62,
+  "hp": 50,
+  "name": "Mareanie",
+  "pokedex_number": 747,
+  "speed": 45,
+  "type1": "poison",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212647e"
+  },
+  "attack": 25,
+  "defense": 35,
+  "hp": 60,
+  "name": "Spoink",
+  "pokedex_number": 325,
+  "speed": 60,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212664d"
+  },
+  "attack": 75,
+  "defense": 115,
+  "hp": 70,
+  "name": "Tapu Fini",
+  "pokedex_number": 788,
+  "speed": 85,
+  "type1": "water",
+  "type2": "fairy",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126483"
+  },
+  "attack": 100,
+  "defense": 80,
+  "hp": 80,
+  "name": "Flygon",
+  "pokedex_number": 330,
+  "speed": 100,
+  "type1": "ground",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126488"
+  },
+  "attack": 115,
+  "defense": 60,
+  "hp": 73,
+  "name": "Zangoose",
+  "pokedex_number": 335,
+  "speed": 90,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126489"
+  },
+  "attack": 100,
+  "defense": 60,
+  "hp": 73,
+  "name": "Seviper",
+  "pokedex_number": 336,
+  "speed": 65,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212648a"
+  },
+  "attack": 55,
+  "defense": 65,
+  "hp": 90,
+  "name": "Lunatone",
+  "pokedex_number": 337,
+  "speed": 70,
+  "type1": "rock",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126491"
+  },
+  "attack": 70,
+  "defense": 105,
+  "hp": 60,
+  "name": "Claydol",
+  "pokedex_number": 344,
+  "speed": 75,
+  "type1": "ground",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126493"
+  },
+  "attack": 81,
+  "defense": 97,
+  "hp": 86,
+  "name": "Cradily",
+  "pokedex_number": 346,
+  "speed": 43,
+  "type1": "rock",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212649e"
+  },
+  "attack": 68,
+  "defense": 83,
+  "hp": 99,
+  "name": "Tropius",
+  "pokedex_number": 357,
+  "speed": 51,
+  "type1": "grass",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264be"
+  },
+  "attack": 109,
+  "defense": 105,
+  "hp": 95,
+  "name": "Torterra",
+  "pokedex_number": 389,
+  "speed": 56,
+  "type1": "grass",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c8"
+  },
+  "attack": 45,
+  "defense": 40,
+  "hp": 59,
+  "name": "Bidoof",
+  "pokedex_number": 399,
+  "speed": 31,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264cb"
+  },
+  "attack": 85,
+  "defense": 51,
+  "hp": 77,
+  "name": "Kricketune",
+  "pokedex_number": 402,
+  "speed": 65,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126505"
+  },
+  "attack": 132,
+  "defense": 105,
+  "hp": 90,
+  "name": "Abomasnow",
+  "pokedex_number": 460,
+  "speed": 30,
+  "type1": "grass",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126514"
+  },
+  "attack": 165,
+  "defense": 95,
+  "hp": 68,
+  "name": "Gallade",
+  "pokedex_number": 475,
+  "speed": 110,
+  "type1": "psychic",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212651e"
+  },
+  "attack": 90,
+  "defense": 106,
+  "hp": 91,
+  "name": "Heatran",
+  "pokedex_number": 485,
+  "speed": 77,
+  "type1": "fire",
+  "type2": "steel",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212652a"
+  },
+  "attack": 75,
+  "defense": 95,
+  "hp": 75,
+  "name": "Serperior",
+  "pokedex_number": 497,
+  "speed": 113,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126552"
+  },
+  "attack": 95,
+  "defense": 75,
+  "hp": 105,
+  "name": "Seismitoad",
+  "pokedex_number": 537,
+  "speed": 74,
+  "type1": "water",
+  "type2": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126554"
+  },
+  "attack": 125,
+  "defense": 75,
+  "hp": 75,
+  "name": "Sawk",
+  "pokedex_number": 539,
+  "speed": 85,
+  "type1": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126556"
+  },
+  "attack": 63,
+  "defense": 90,
+  "hp": 55,
+  "name": "Swadloon",
+  "pokedex_number": 541,
+  "speed": 42,
+  "type1": "bug",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126565"
+  },
+  "attack": 86,
+  "defense": 67,
+  "hp": 75,
+  "name": "Maractus",
+  "pokedex_number": 556,
+  "speed": 60,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212657b"
+  },
+  "attack": 40,
+  "defense": 50,
+  "hp": 65,
+  "name": "Duosion",
+  "pokedex_number": 578,
+  "speed": 30,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212657c"
+  },
+  "attack": 65,
+  "defense": 75,
+  "hp": 110,
+  "name": "Reuniclus",
+  "pokedex_number": 579,
+  "speed": 30,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126581"
+  },
+  "attack": 95,
+  "defense": 85,
+  "hp": 71,
+  "name": "Vanilluxe",
+  "pokedex_number": 584,
+  "speed": 79,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126588"
+  },
+  "attack": 85,
+  "defense": 70,
+  "hp": 114,
+  "name": "Amoonguss",
+  "pokedex_number": 591,
+  "speed": 30,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126596"
+  },
+  "attack": 55,
+  "defense": 55,
+  "hp": 55,
+  "name": "Elgyem",
+  "pokedex_number": 605,
+  "speed": 30,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212659f"
+  },
+  "attack": 130,
+  "defense": 80,
+  "hp": 95,
+  "name": "Beartic",
+  "pokedex_number": 614,
+  "speed": 50,
+  "type1": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265ac"
+  },
+  "attack": 83,
+  "defense": 50,
+  "hp": 70,
+  "name": "Rufflet",
+  "pokedex_number": 627,
+  "speed": 60,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b2"
+  },
+  "attack": 65,
+  "defense": 50,
+  "hp": 52,
+  "name": "Deino",
+  "pokedex_number": 633,
+  "speed": 38,
+  "type1": "dark",
+  "type2": "dragon",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265b8"
+  },
+  "attack": 129,
+  "defense": 90,
+  "hp": 91,
+  "name": "Terrakion",
+  "pokedex_number": 639,
+  "speed": 108,
+  "type1": "rock",
+  "type2": "fighting",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e4"
+  },
+  "attack": 72,
+  "defense": 72,
+  "hp": 101,
+  "name": "Aromatisse",
+  "pokedex_number": 683,
+  "speed": 29,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265fd"
+  },
+  "attack": 70,
+  "defense": 48,
+  "hp": 43,
+  "name": "Phantump",
+  "pokedex_number": 708,
+  "speed": 38,
+  "type1": "ghost",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126600"
+  },
+  "attack": 100,
+  "defense": 122,
+  "hp": 85,
+  "name": "Gourgeist",
+  "pokedex_number": 711,
+  "speed": 54,
+  "type1": "ghost",
+  "type2": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126612"
+  },
+  "attack": 69,
+  "defense": 69,
+  "hp": 60,
+  "name": "Brionne",
+  "pokedex_number": 729,
+  "speed": 50,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126618"
+  },
+  "attack": 110,
+  "defense": 60,
+  "hp": 88,
+  "name": "Gumshoos",
+  "pokedex_number": 735,
+  "speed": 45,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212661d"
+  },
+  "attack": 132,
+  "defense": 77,
+  "hp": 97,
+  "name": "Crabominable",
+  "pokedex_number": 740,
+  "speed": 43,
+  "type1": "fighting",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126626"
+  },
+  "attack": 100,
+  "defense": 70,
+  "hp": 70,
+  "name": "Mudbray",
+  "pokedex_number": 749,
+  "speed": 45,
+  "type1": "ground",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126632"
+  },
+  "attack": 30,
+  "defense": 38,
+  "hp": 42,
+  "name": "Bounsweet",
+  "pokedex_number": 761,
+  "speed": 32,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126636"
+  },
+  "attack": 60,
+  "defense": 80,
+  "hp": 90,
+  "name": "Oranguru",
+  "pokedex_number": 765,
+  "speed": 60,
+  "type1": "normal",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126651"
+  },
+  "attack": 113,
+  "defense": 89,
+  "hp": 137,
+  "name": "Lunala",
+  "pokedex_number": 792,
+  "speed": 97,
+  "type1": "psychic",
+  "type2": "ghost",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212633a"
+  },
+  "attack": 49,
+  "defense": 49,
+  "hp": 45,
+  "name": "Bulbasaur",
+  "pokedex_number": 1,
+  "speed": 45,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126351"
+  },
+  "attack": 95,
+  "defense": 69,
+  "hp": 60,
+  "name": "Arbok",
+  "pokedex_number": 24,
+  "speed": 80,
+  "type1": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212635c"
+  },
+  "attack": 45,
+  "defense": 48,
+  "hp": 70,
+  "name": "Clefairy",
+  "pokedex_number": 35,
+  "speed": 35,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212636f"
+  },
+  "attack": 52,
+  "defense": 48,
+  "hp": 50,
+  "name": "Psyduck",
+  "pokedex_number": 54,
+  "speed": 55,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263ad"
+  },
+  "attack": 40,
+  "defense": 70,
+  "hp": 30,
+  "name": "Horsea",
+  "pokedex_number": 116,
+  "speed": 60,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b5"
+  },
+  "attack": 50,
+  "defense": 35,
+  "hp": 65,
+  "name": "Jynx",
+  "pokedex_number": 124,
+  "speed": 95,
+  "type1": "ice",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263b6"
+  },
+  "attack": 83,
+  "defense": 57,
+  "hp": 65,
+  "name": "Electabuzz",
+  "pokedex_number": 125,
+  "speed": 105,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e5"
+  },
+  "attack": 40,
+  "defense": 15,
+  "hp": 20,
+  "name": "Pichu",
+  "pokedex_number": 172,
+  "speed": 60,
+  "type1": "electric",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21263e9"
+  },
+  "attack": 40,
+  "defense": 85,
+  "hp": 55,
+  "name": "Togetic",
+  "pokedex_number": 176,
+  "speed": 40,
+  "type1": "fairy",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126405"
+  },
+  "attack": 65,
+  "defense": 90,
+  "hp": 50,
+  "name": "Pineco",
+  "pokedex_number": 204,
+  "speed": 15,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126410"
+  },
+  "attack": 95,
+  "defense": 55,
+  "hp": 55,
+  "name": "Sneasel",
+  "pokedex_number": 215,
+  "speed": 115,
+  "type1": "dark",
+  "type2": "ice",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212641e"
+  },
+  "attack": 90,
+  "defense": 90,
+  "hp": 75,
+  "name": "Houndoom",
+  "pokedex_number": 229,
+  "speed": 115,
+  "type1": "dark",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212643a"
+  },
+  "attack": 160,
+  "defense": 80,
+  "hp": 80,
+  "name": "Blaziken",
+  "pokedex_number": 257,
+  "speed": 100,
+  "type1": "fire",
+  "type2": "fighting",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212643e"
+  },
+  "attack": 55,
+  "defense": 35,
+  "hp": 35,
+  "name": "Poochyena",
+  "pokedex_number": 261,
+  "speed": 35,
+  "type1": "dark",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212644e"
+  },
+  "attack": 85,
+  "defense": 60,
+  "hp": 60,
+  "name": "Swellow",
+  "pokedex_number": 277,
+  "speed": 125,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126452"
+  },
+  "attack": 35,
+  "defense": 35,
+  "hp": 38,
+  "name": "Kirlia",
+  "pokedex_number": 281,
+  "speed": 50,
+  "type1": "psychic",
+  "type2": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126459"
+  },
+  "attack": 80,
+  "defense": 80,
+  "hp": 80,
+  "name": "Vigoroth",
+  "pokedex_number": 288,
+  "speed": 90,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126480"
+  },
+  "attack": 60,
+  "defense": 60,
+  "hp": 60,
+  "name": "Spinda",
+  "pokedex_number": 327,
+  "speed": 60,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212648e"
+  },
+  "attack": 80,
+  "defense": 65,
+  "hp": 43,
+  "name": "Corphish",
+  "pokedex_number": 341,
+  "speed": 35,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126496"
+  },
+  "attack": 15,
+  "defense": 20,
+  "hp": 20,
+  "name": "Feebas",
+  "pokedex_number": 349,
+  "speed": 80,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212649b"
+  },
+  "attack": 165,
+  "defense": 75,
+  "hp": 64,
+  "name": "Banette",
+  "pokedex_number": 354,
+  "speed": 75,
+  "type1": "ghost",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264b6"
+  },
+  "attack": 130,
+  "defense": 100,
+  "hp": 80,
+  "name": "Latios",
+  "pokedex_number": 381,
+  "speed": 110,
+  "type1": "dragon",
+  "type2": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264c9"
+  },
+  "attack": 85,
+  "defense": 60,
+  "hp": 79,
+  "name": "Bibarel",
+  "pokedex_number": 400,
+  "speed": 71,
+  "type1": "normal",
+  "type2": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264d0"
+  },
+  "attack": 70,
+  "defense": 65,
+  "hp": 60,
+  "name": "Roserade",
+  "pokedex_number": 407,
+  "speed": 90,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264e4"
+  },
+  "attack": 66,
+  "defense": 44,
+  "hp": 55,
+  "name": "Buneary",
+  "pokedex_number": 427,
+  "speed": 85,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264ed"
+  },
+  "attack": 24,
+  "defense": 86,
+  "hp": 57,
+  "name": "Bronzor",
+  "pokedex_number": 436,
+  "speed": 23,
+  "type1": "steel",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21264f2"
+  },
+  "attack": 65,
+  "defense": 45,
+  "hp": 76,
+  "name": "Chatot",
+  "pokedex_number": 441,
+  "speed": 91,
+  "type1": "normal",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126530"
+  },
+  "attack": 100,
+  "defense": 85,
+  "hp": 95,
+  "name": "Samurott",
+  "pokedex_number": 503,
+  "speed": 70,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126550"
+  },
+  "attack": 50,
+  "defense": 40,
+  "hp": 50,
+  "name": "Tympole",
+  "pokedex_number": 535,
+  "speed": 64,
+  "type1": "water",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126570"
+  },
+  "attack": 140,
+  "defense": 65,
+  "hp": 75,
+  "name": "Archeops",
+  "pokedex_number": 567,
+  "speed": 110,
+  "type1": "rock",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126575"
+  },
+  "attack": 50,
+  "defense": 40,
+  "hp": 55,
+  "name": "Minccino",
+  "pokedex_number": 572,
+  "speed": 75,
+  "type1": "normal",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126579"
+  },
+  "attack": 55,
+  "defense": 95,
+  "hp": 70,
+  "name": "Gothitelle",
+  "pokedex_number": 576,
+  "speed": 65,
+  "type1": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212657d"
+  },
+  "attack": 44,
+  "defense": 50,
+  "hp": 62,
+  "name": "Ducklett",
+  "pokedex_number": 580,
+  "speed": 55,
+  "type1": "water",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126587"
+  },
+  "attack": 55,
+  "defense": 45,
+  "hp": 69,
+  "name": "Foongus",
+  "pokedex_number": 590,
+  "speed": 15,
+  "type1": "grass",
+  "type2": "poison",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126599"
+  },
+  "attack": 40,
+  "defense": 60,
+  "hp": 60,
+  "name": "Lampent",
+  "pokedex_number": 608,
+  "speed": 55,
+  "type1": "ghost",
+  "type2": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265bb"
+  },
+  "attack": 105,
+  "defense": 70,
+  "hp": 79,
+  "name": "Thundurus",
+  "pokedex_number": 642,
+  "speed": 101,
+  "type1": "electric",
+  "type2": "flying",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c1"
+  },
+  "attack": 128,
+  "defense": 90,
+  "hp": 100,
+  "name": "Meloetta",
+  "pokedex_number": 648,
+  "speed": 128,
+  "type1": "normal",
+  "type2": "psychic",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c3"
+  },
+  "attack": 61,
+  "defense": 65,
+  "hp": 56,
+  "name": "Chespin",
+  "pokedex_number": 650,
+  "speed": 38,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265c6"
+  },
+  "attack": 45,
+  "defense": 40,
+  "hp": 40,
+  "name": "Fennekin",
+  "pokedex_number": 653,
+  "speed": 60,
+  "type1": "fire",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d0"
+  },
+  "attack": 81,
+  "defense": 71,
+  "hp": 78,
+  "name": "Talonflame",
+  "pokedex_number": 663,
+  "speed": 126,
+  "type1": "fire",
+  "type2": "flying",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265d8"
+  },
+  "attack": 65,
+  "defense": 68,
+  "hp": 78,
+  "name": "Florges",
+  "pokedex_number": 671,
+  "speed": 75,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265e8"
+  },
+  "attack": 92,
+  "defense": 88,
+  "hp": 86,
+  "name": "Malamar",
+  "pokedex_number": 687,
+  "speed": 73,
+  "type1": "dark",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad21265f5"
+  },
+  "attack": 65,
+  "defense": 65,
+  "hp": 95,
+  "name": "Sylveon",
+  "pokedex_number": 700,
+  "speed": 60,
+  "type1": "fairy",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212660a"
+  },
+  "attack": 110,
+  "defense": 120,
+  "hp": 80,
+  "name": "Volcanion",
+  "pokedex_number": 721,
+  "speed": 70,
+  "type1": "fire",
+  "type2": "water",
+  "is_legendary": "1"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126619"
+  },
+  "attack": 62,
+  "defense": 45,
+  "hp": 47,
+  "name": "Grubbin",
+  "pokedex_number": 736,
+  "speed": 46,
+  "type1": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126629"
+  },
+  "attack": 70,
+  "defense": 92,
+  "hp": 68,
+  "name": "Araquanid",
+  "pokedex_number": 752,
+  "speed": 42,
+  "type1": "water",
+  "type2": "bug",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad212662a"
+  },
+  "attack": 55,
+  "defense": 35,
+  "hp": 40,
+  "name": "Fomantis",
+  "pokedex_number": 753,
+  "speed": 35,
+  "type1": "grass",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126644"
+  },
+  "attack": 105,
+  "defense": 70,
+  "hp": 68,
+  "name": "Bruxish",
+  "pokedex_number": 779,
+  "speed": 92,
+  "type1": "water",
+  "type2": "psychic",
+  "is_legendary": "0"
+},{
+  "_id": {
+    "$oid": "6445be7b38bc4a0ad2126649"
+  },
+  "attack": 110,
+  "defense": 125,
+  "hp": 75,
+  "name": "Kommo-o",
+  "pokedex_number": 784,
+  "speed": 85,
+  "type1": "dragon",
+  "type2": "fighting",
+  "is_legendary": "0"
+}]

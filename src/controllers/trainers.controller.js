@@ -117,6 +117,64 @@ const create = async (request, response) => {
     };
 };
 
+const update = async (request, response) => {
+    const { id } = request.params;
+    const { 
+        name,  
+        age, 
+        location, 
+        is_leader, 
+        badges, 
+        speciality, 
+        pokemons } = request.body;
+
+    try {
+        const trainer = await TrainersModel.findById(id);
+
+        if(!trainer) {
+            throw new NotFoundException(`Trainer not found ${id}`);
+        };
+
+        let updatedPokemonsList = trainer.pokemons;
+
+        if(pokemons) {
+            const pokemonDocs = await PokemonsModel.find({ _id: { $in: pokemons } });
+
+            updatedPokemonsList = pokemonDocs.map((pokemonDoc) => {
+                const { _id, attack, defense, hp, name, pokedex_number, speed, type1, is_legendary } = pokemonDoc;
+                return { _id, attack, defense, hp, name, pokedex_number, speed, type1, is_legendary };
+            });
+        }
+
+        const trainerUpdated = await TrainersModel.findByIdAndUpdate(id, {
+                name: !name ? trainer.name : name,
+                age: !age ? trainer.age : age,
+                location: !location ? trainer.location : location,
+                is_leader: !is_leader ? trainer.is_leader : is_leader,
+                badges: !badges ? trainer.badges : badges,
+                speciality: !speciality ? trainer.speciality : speciality,
+                pokemons: updatedPokemonsList,
+            },
+            {  
+                new: true,
+            }
+        );
+
+        return response.json(trainerUpdated);
+} catch(err) {
+    if(err instanceof NotFoundException) {
+        return response.status(404).json({
+            error: '@trainers/update',
+            message: err.message,
+        });
+    };
+    return response.status(400).json({
+        error: '@trainers/update',
+        message: err.message || "Failed to update a trainer",
+        });
+    }
+};
+
 const remove = async (request, response) => {
     const { id } = request.params;
 
@@ -147,5 +205,6 @@ module.exports = {
     list,
     getById,
     create,
+    update,
     remove
 };

@@ -193,7 +193,7 @@ const update = async (request, response) => {
     };
     return response.status(400).json({
         error: '@news/update',
-        message: err.message || "Failed to update a news",
+        message: err.message || "Failed to update a pokemon",
     });
     }
 };

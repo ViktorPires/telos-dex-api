@@ -1,4 +1,5 @@
 const TrainersModel = require('../model/trainer.model');
+const PokemonsModel = require('../model/pokemon.model');
 
 const { operatorFilter } = require('../utils/operatorFilter');
 
@@ -77,7 +78,47 @@ const getById = async (request, response) => {
     }
 };
 
+const create = async (request, response) => {
+    const { 
+        name,  
+        age, 
+        location, 
+        is_leader, 
+        badges, 
+        speciality, 
+        pokemons } = request.body;
+
+    try {
+        // Retrieve all pokemons with IDs in the pokemons list
+         const pokemonDocs = await PokemonsModel.find({ _id: { $in: pokemons } });
+
+        // Creates a new list of pokemons that contains all the data of the found pokemons
+         const pokemonsList = pokemonDocs.map((pokemonDoc) => {
+             const { _id, attack, defense, hp, name, pokedex_number, speed, type1, is_legendary } = pokemonDoc;
+             return { _id, attack, defense, hp, name, pokedex_number, speed, type1, is_legendary };
+         });
+
+        const trainer = await TrainersModel.create({
+            name,
+            age,
+            location,
+            is_leader,
+            badges,
+            speciality,
+            pokemons: pokemonsList
+        });
+
+        return response.status(201).json(trainer);
+    } catch(err) {
+        return response.status(400).json({
+            error: '@trainers/create',
+            message: err.message || "Failed to create a new trainer",
+        });
+    };
+};
+
 module.exports = {
     list,
     getById,
+    create,
 };

@@ -117,8 +117,35 @@ const create = async (request, response) => {
     };
 };
 
+const remove = async (request, response) => {
+    const { id } = request.params;
+
+    try {
+        const trainerRemoved = await TrainersModel.findByIdAndDelete(id);
+
+        if(!trainerRemoved) {
+           throw new NotFoundException(`Trainer not found ${id}`);
+        };
+
+    return response.status(204).send();
+    } catch(err) {
+        if(err instanceof NotFoundException) {
+            return response.status(404).json({
+                error: '@trainers/remove',
+                message: err.message,
+            });
+        };
+        return response.status(400).json({
+            error: '@trainers/remove',
+            message: err.message || "Failed to remove a trainer",
+        });
+    }
+};
+
+
 module.exports = {
     list,
     getById,
     create,
+    remove
 };
